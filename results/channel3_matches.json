@@ -1,0 +1,4760 @@
+[
+  {
+    "filename": "ie_sweatshirt_t_-_shirt_shirt_1.png",
+    "label": "##ie sweatshirt t - shirt shirt",
+    "storage_path": "8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/eea777096154_ie_sweatshirt_t_-_shirt_shirt_1.png",
+    "matches": {
+      "products": [
+        {
+          "id": "Nv8sfWD",
+          "title": "Champion NCAA University of Illinois HW Traditions Tshirt",
+          "description": "Rep your college pride with the Champion Tradition Heavyweight T-Shirt. Built with a loose, oversized fit and heavyweight combed cotton, this short sleeve tee delivers durable, all-day comfort with a vintage feel. Clean detailing and a relaxed silhouette make it an easy layer for game day or everyday wear.",
+          "brands": [
+            {
+              "id": "og82",
+              "name": "Champion"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/fa0e11f5-d476-42fd-a31f-345db5dd0965?aid=01M7861J1EQA0FME93FBD1CKRK&mid=YikB",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/fa0e11f5-d476-42fd-a31f-345db5dd0965?aid=01M7861J1EQA0FME93FBD1CKRK&mid=YikB",
+              "is_main_image": true,
+              "shot_type": "hero",
+              "alt_text": "Navy blue Champion Illinois University HW Traditions t-shirt."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/a7c08705-30d0-4285-aed7-1921253b70be?aid=01M7861J1EQA0FME93FBD1CKRK&mid=YikB",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a7c08705-30d0-4285-aed7-1921253b70be?aid=01M7861J1EQA0FME93FBD1CKRK&mid=YikB",
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Navy blue Champion Illinois University HW Traditions t-shirt."
+            }
+          ],
+          "category": {
+            "slug": "t-shirts-3",
+            "title": "T-Shirts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "shirts-tops",
+                "title": "Shirts & Tops"
+              },
+              {
+                "slug": "t-shirts-3",
+                "title": "T-Shirts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "male",
+          "age": "adult",
+          "materials": [
+            "100% combed cotton"
+          ],
+          "key_features": [
+            "Heavyweight combed cotton delivers a durable, substantial feel",
+            "Dropped shoulder design adds a relaxed, casual look",
+            "Rolled forward shoulder seams provide a structured drape",
+            "1-inch tall neck rib holds shape wear after wear",
+            "1-inch sleeve and bottom hems with ladder stitching for detail"
+          ],
+          "colors": [
+            {
+              "hex": "#2c2e45",
+              "percentage": 0.9335
+            },
+            {
+              "hex": "#6e5963",
+              "percentage": 0.0665
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/Nv8sfWD-YikB-2mDhp7?o=01M2E087DN1BY223R850KG3KK1&aid=01M7861J1EQA0FME93FBD1CKRK",
+              "domain": "champssports.com",
+              "price": {
+                "price": 45.0,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.056,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "pattern": [
+              "Graphic"
+            ],
+            "fabric": [
+              "Cotton"
+            ],
+            "top-fit": [
+              "Oversized"
+            ],
+            "sleeve-length-type": [
+              "Short"
+            ],
+            "clothing-features": [
+              "Lightweight"
+            ],
+            "decoration-technique": [
+              "Screen printing"
+            ],
+            "neckline": [
+              "Round"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "vwW1HRS",
+          "title": "Fanatics Illinois Champions T-Shirt - Men's",
+          "description": "Show your loyalty to Illinois with the Fanatics Champions T-shirt. Made from 100% cotton jersey, this mid-weight tee offers a breathable feel that keeps you comfortable from the stands to the streets. The bold screen-printed graphics on the chest ensure your team pride is always front and center.",
+          "brands": [
+            {
+              "id": "1ZKF",
+              "name": "Fanatics"
+            },
+            {
+              "id": "og82",
+              "name": "Champion"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/47fe5d92-2d35-4b8d-9aa1-cb37f6378ef6?aid=01M7861J1EQA0FME93FBD1CKRK&mid=YikB",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/47fe5d92-2d35-4b8d-9aa1-cb37f6378ef6?aid=01M7861J1EQA0FME93FBD1CKRK&mid=YikB",
+              "is_main_image": true,
+              "shot_type": "hero",
+              "alt_text": "Grey t-shirt viewed from the back."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/e991907d-caa5-47ae-82d9-d7fc3fc52649?aid=01M7861J1EQA0FME93FBD1CKRK&mid=YikB",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e991907d-caa5-47ae-82d9-d7fc3fc52649?aid=01M7861J1EQA0FME93FBD1CKRK&mid=YikB",
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Grey t-shirt front view with Illinois I text."
+            }
+          ],
+          "category": {
+            "slug": "t-shirts-3",
+            "title": "T-Shirts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "shirts-tops",
+                "title": "Shirts & Tops"
+              },
+              {
+                "slug": "t-shirts-3",
+                "title": "T-Shirts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "male",
+          "age": "adult",
+          "materials": [
+            "100% cotton"
+          ],
+          "key_features": [
+            "Soft cotton jersey fabric provides breathable comfort",
+            "Ribbed crew neck offers a classic and durable fit",
+            "Screen-printed Illinois graphic across the chest",
+            "Short-sleeve silhouette for easy layering and movement"
+          ],
+          "colors": [
+            {
+              "hex": "#a1a1a1",
+              "percentage": 0.7072
+            },
+            {
+              "hex": "#fefefe",
+              "percentage": 0.2414
+            },
+            {
+              "hex": "#827f83",
+              "percentage": 0.0514
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/vwW1HRS-YikB-2mDhp7?o=01M2H2XHZPQW31GXS4FKT7411C&aid=01M7861J1EQA0FME93FBD1CKRK",
+              "domain": "champssports.com",
+              "price": {
+                "price": 24.0,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.056,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "clothing-features": [
+              "Breathable design"
+            ],
+            "chest-pocket-style": [
+              "None"
+            ],
+            "care-instructions": [
+              "Machine washable"
+            ],
+            "decoration-technique": [
+              "Screen printing"
+            ],
+            "top-fit": [
+              "Regular"
+            ],
+            "neckline": [
+              "Crew"
+            ],
+            "pattern": [
+              "Graphic"
+            ],
+            "fabric": [
+              "Cotton"
+            ],
+            "knit-pattern": [
+              "Rib"
+            ],
+            "sleeve-length-type": [
+              "Short"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "OLjt8LV",
+          "title": "Champion Illinois Fighting Illini Navy Blue School of Information Science Short Sleeve T Shirt",
+          "description": "Show off your team pride with this Navy Blue Champion t-shirt from the University of Illinois Urbana-Champaign. This short sleeve tee features the 'School of Information Sciences' graphic and the iconic orange 'I' on the chest. Designed for comfort and durability, it's made from 100% cotton jersey and features a crew neck and a classic fit.",
+          "brands": [
+            {
+              "id": "og82",
+              "name": "Champion"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/87722afa-b3cb-4d2d-af49-dcbc088acc7d?aid=01M7861J1EQA0FME93FBD1CKRK&mid=hF0B",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/87722afa-b3cb-4d2d-af49-dcbc088acc7d?aid=01M7861J1EQA0FME93FBD1CKRK&mid=hF0B",
+              "is_main_image": true,
+              "shot_type": "hero",
+              "alt_text": "Navy blue t-shirt with orange 'I' and school name text on front."
+            }
+          ],
+          "category": {
+            "slug": "t-shirts-3",
+            "title": "T-Shirts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "shirts-tops",
+                "title": "Shirts & Tops"
+              },
+              {
+                "slug": "t-shirts-3",
+                "title": "T-Shirts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "male",
+          "age": "adult",
+          "materials": [
+            "100% Cotton Jersey"
+          ],
+          "key_features": [
+            "Tag-free heat transfer neck label",
+            "Double-needle stitched hemmed sleeves and bottom",
+            "Set-in neck rib",
+            "Shoulder-to-shoulder taping",
+            "C logo on left sleeve",
+            "Preshrunk",
+            "Printed team graphic on front chest",
+            "Crew Neck"
+          ],
+          "colors": [
+            {
+              "hex": "#2e354a",
+              "percentage": 0.9139
+            },
+            {
+              "hex": "#7d7884",
+              "percentage": 0.0861
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/OLjt8LV-hF0B-2mDhp7?o=01M77GBJ8KSD2XK4Z0CYR7PRRW&aid=01M7861J1EQA0FME93FBD1CKRK",
+              "domain": "rallyhouse.com",
+              "price": {
+                "price": 14.97,
+                "compare_at_price": 24.99,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.0,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "fabric": [
+              "Cotton"
+            ],
+            "chest-pocket-style": [
+              "None"
+            ],
+            "neckline": [
+              "Crew"
+            ],
+            "sleeve-length-type": [
+              "Short"
+            ],
+            "pattern": [
+              "Graphic"
+            ],
+            "top-fit": [
+              "Regular"
+            ],
+            "decoration-technique": [
+              "Screen printing"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "qdzZwSD",
+          "title": "Champion Illinois Fighting Illini NAVY Stacked Football Short Sleeve T Shirt - 147500103",
+          "description": "Navy blue short-sleeve t-shirt with an orange graphic print of 'ILLINOIS FOOTBALL I' on the chest.",
+          "brands": [
+            {
+              "id": "og82",
+              "name": "Champion"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/a7686b07-fcb5-4827-87d4-0d400c9c148f?aid=01M7861J1EQA0FME93FBD1CKRK&mid=hF0B",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a7686b07-fcb5-4827-87d4-0d400c9c148f?aid=01M7861J1EQA0FME93FBD1CKRK&mid=hF0B",
+              "is_main_image": true,
+              "shot_type": "hero",
+              "alt_text": "Navy blue Champion Illinois Fighting Illini football t-shirt"
+            }
+          ],
+          "category": {
+            "slug": "t-shirts-3",
+            "title": "T-Shirts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "shirts-tops",
+                "title": "Shirts & Tops"
+              },
+              {
+                "slug": "t-shirts-3",
+                "title": "T-Shirts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "male",
+          "age": "adult",
+          "materials": [
+            "100% Cotton Jersey"
+          ],
+          "key_features": [
+            "Tag-free heat transfer neck label",
+            "Double-needle stitched hemmed sleeves and bottom",
+            "Set-in neck rib",
+            "Shoulder-to-shoulder taping",
+            "C logo on left sleeve",
+            "Preshrunk",
+            "Printed team graphic on front chest",
+            "Unisex",
+            "Crew Neck",
+            "Below Hip"
+          ],
+          "colors": [
+            {
+              "hex": "#2d3449",
+              "percentage": 0.9171
+            },
+            {
+              "hex": "#7f7680",
+              "percentage": 0.0829
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/qdzZwSD-hF0B-2mDhp7?o=01M740HXSW8C52FXD04Q92PQBM&aid=01M7861J1EQA0FME93FBD1CKRK",
+              "domain": "rallyhouse.com",
+              "price": {
+                "price": 24.99,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.0,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "top-length-type": [
+              "Long"
+            ],
+            "decoration-technique": [
+              "Screen printing"
+            ],
+            "sleeve-length-type": [
+              "Short"
+            ],
+            "neckline": [
+              "Crew"
+            ],
+            "fabric": [
+              "Cotton"
+            ],
+            "pattern": [
+              "Graphic"
+            ],
+            "chest-pocket-style": [
+              "None"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "qKz0aKu",
+          "title": "Illinois Football Retro Wordmark Helmet Vintage Heavyweight Tee",
+          "description": "This Illinois Football Retro Wordmark Helmet Vintage Heavyweight Tee is a timeless throwback piece featuring an early iteration of the underlined 'Illinois' wordmark and an illustration of an Illini football helmet. Crafted from 100% pre-shrunk, garment-dyed cotton, this navy t-shirt offers a durable vintage fit with a wide chest, body, and dropped shoulders, ensuring it becomes cozier with every wash.",
+          "brands": [
+            {
+              "id": "iKS6",
+              "name": "homefield"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/94e37b65-1e71-498d-8d3f-27734580d7b4?aid=01M7861J1EQA0FME93FBD1CKRK&mid=eIju",
+              "cleaned_url": null,
+              "is_main_image": true,
+              "shot_type": "hero",
+              "alt_text": "Navy t-shirt with orange Illinois football wordmark graphic on the chest."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/76661715-563d-4e5a-85bc-8e0cdd04a03b?aid=01M7861J1EQA0FME93FBD1CKRK&mid=eIju",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "lifestyle",
+              "alt_text": "Two men modeling white t-shirts in different fits."
+            }
+          ],
+          "category": {
+            "slug": "t-shirts-3",
+            "title": "T-Shirts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "shirts-tops",
+                "title": "Shirts & Tops"
+              },
+              {
+                "slug": "t-shirts-3",
+                "title": "T-Shirts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "male",
+          "age": "adult",
+          "materials": [
+            "100% pre-shrunk cotton"
+          ],
+          "key_features": [
+            "Vintage heavyweight fit with wide chest and body",
+            "Dropped shoulder design",
+            "Garment-dyed for a vintage feel",
+            "Officially licensed collegiate apparel",
+            "Designed and processed in Indianapolis, IN"
+          ],
+          "colors": [
+            {
+              "hex": "#636679",
+              "percentage": 0.8602
+            },
+            {
+              "hex": "#b08a78",
+              "percentage": 0.1398
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/qKz0aKu-eIju-2mDhp7?o=01M2YQQVJJ8XN4C4AVK74VF2SQ&aid=01M7861J1EQA0FME93FBD1CKRK",
+              "domain": "homefieldapparel.com",
+              "price": {
+                "price": 46.0,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.0,
+              "dimensions": {
+                "length": null,
+                "width": null,
+                "height": null,
+                "weight": {
+                  "number": 289.0,
+                  "unit": "g"
+                }
+              }
+            }
+          ],
+          "variants": {
+            "options": [
+              {
+                "name": "Size",
+                "values": [
+                  {
+                    "label": "XS",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "S",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "M",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "L",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "XL",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "XXL",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "3XL",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "4XL",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  }
+                ]
+              }
+            ],
+            "selected": []
+          },
+          "structured_attributes": {
+            "top-fit": [
+              "Relaxed"
+            ],
+            "neckline": [
+              "Round"
+            ],
+            "fabric": [
+              "Cotton"
+            ],
+            "decoration-technique": [
+              "Screen printing"
+            ],
+            "care-instructions": [
+              "Machine washable",
+              "Tumble dry"
+            ],
+            "stretch-level": [
+              "No stretch"
+            ],
+            "clothing-features": [
+              "Lightweight"
+            ],
+            "sleeve-length-type": [
+              "Short"
+            ],
+            "top-length-type": [
+              "Medium"
+            ],
+            "pattern": [
+              "Graphic"
+            ],
+            "chest-pocket-style": [
+              "None"
+            ]
+          },
+          "ratings": null
+        }
+      ],
+      "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOmYyOTYyNjM3NTMwM2E1MDYiLCAib2Zmc2V0IjogNX0="
+    }
+  },
+  {
+    "filename": "jacket_coat_blaze_hoodie_sweatshirt_sweater_-_2.png",
+    "label": "jacket coat blaze hoodie sweatshirt sweater -",
+    "storage_path": "8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/db65f14a1ff1_jacket_coat_blaze_hoodie_sweatshirt_sweater_-_2.png",
+    "matches": {
+      "products": [
+        {
+          "id": "S6XLHbq",
+          "title": "Men's Blaze Fleece Hoodie",
+          "description": "Stay warm and cozy whether you're at the campsite or relaxing at home with the Magellan Outdoors Men's Blaze Fleece Hoodie. This insulated pullover is crafted from plush 100% polyester fleece, featuring an adjustable drawstring hood and a convenient front kangaroo pocket for added warmth and utility.",
+          "brands": [
+            {
+              "id": "FHGj",
+              "name": "Magellan"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/0f6ef300-8021-412c-8123-f4c4ad278bcd?aid=01M7861K9WD97YPEZ647XP8RXX&mid=DEoc",
+              "cleaned_url": "https://cdn.trychannel3.com/10d9e23d-96ca-429f-815b-d0b678c5c566?aid=01M7861K9WD97YPEZ647XP8RXX&mid=DEoc",
+              "is_main_image": true,
+              "shot_type": "hero",
+              "alt_text": "Front view of an orange fleece hoodie on a plain background."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/891628db-1066-48d2-932e-f6af67a7d919?aid=01M7861K9WD97YPEZ647XP8RXX&mid=DEoc",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Back view of an orange fleece hoodie showing the back and hood."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/c130c18c-e9eb-4982-8eb0-a91ecef0d2ed?aid=01M7861K9WD97YPEZ647XP8RXX&mid=DEoc",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "lifestyle",
+              "alt_text": "Man wearing an orange fleece hoodie sitting by a campfire in a forest."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/e90ad4e0-7616-49e6-aeff-21aaa1baa910?aid=01M7861K9WD97YPEZ647XP8RXX&mid=DEoc",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "lifestyle",
+              "alt_text": "Man wearing an orange fleece hoodie standing in a scenic mountain landscape."
+            }
+          ],
+          "category": {
+            "slug": "hoodies-3",
+            "title": "Hoodies",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "shirts-tops",
+                "title": "Shirts & Tops"
+              },
+              {
+                "slug": "hoodies-3",
+                "title": "Hoodies"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "male",
+          "age": "adult",
+          "materials": [
+            "polyester fleece"
+          ],
+          "key_features": [
+            "100% polyester fleece lends softness and warmth",
+            "Hood with adjustable drawstring provides added warmth",
+            "Front kangaroo pocket",
+            "Pullover style",
+            "Insulated",
+            "Machine washable"
+          ],
+          "colors": [
+            {
+              "hex": "#f77939",
+              "percentage": 0.387
+            },
+            {
+              "hex": "#ef5328",
+              "percentage": 0.2649
+            },
+            {
+              "hex": "#e63326",
+              "percentage": 0.1318
+            },
+            {
+              "hex": "#f99e61",
+              "percentage": 0.1186
+            },
+            {
+              "hex": "#c9171f",
+              "percentage": 0.0976
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/S6XLHbq-DEoc-2mDhp7?o=01M0ZFZ5HY4M0VY0GFNTETPE9T&aid=01M7861K9WD97YPEZ647XP8RXX",
+              "domain": "academy.com",
+              "price": {
+                "price": 39.99,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.014,
+              "dimensions": null
+            }
+          ],
+          "variants": {
+            "options": [
+              {
+                "name": "Size",
+                "values": [
+                  {
+                    "label": "Small",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "Medium",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "Large",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "X Large",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "XX Large",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "XXX Large",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  }
+                ]
+              }
+            ],
+            "selected": []
+          },
+          "structured_attributes": {
+            "care-instructions": [
+              "Machine washable",
+              "Tumble dry",
+              "Ironing instructions"
+            ],
+            "fabric": [
+              "Fleece",
+              "Polyester"
+            ],
+            "neckline": [
+              "Hooded"
+            ],
+            "sleeve-length-type": [
+              "Long"
+            ],
+            "pattern": [
+              "Solid"
+            ]
+          },
+          "ratings": {
+            "value": 4.7,
+            "count": 28,
+            "source_count": 1
+          }
+        },
+        {
+          "id": "8d2a3XV",
+          "title": "Blaze Sweatshirt",
+          "description": "A brown long-sleeved mock neck pullover sweatshirt designed for men. It features a partial zip fastening at the high neck, a side pocket, and a small branded logo patch on the chest. Crafted from 100% polyester, this garment offers a sporty and functional look.",
+          "brands": [
+            {
+              "id": "bdz0",
+              "name": "Saysky"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/24f27b92-b0ec-4cd7-acad-6ffd6524827e?aid=01M7861K9WD97YPEZ647XP8RXX&mid=NuBr",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/24f27b92-b0ec-4cd7-acad-6ffd6524827e?aid=01M7861K9WD97YPEZ647XP8RXX&mid=NuBr",
+              "is_main_image": true,
+              "shot_type": "on_model",
+              "alt_text": "Man wearing a mustard yellow long-sleeve sweatshirt and grey pants."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/6c496b66-fcfa-43fa-a178-6256ed8f2bc6?aid=01M7861K9WD97YPEZ647XP8RXX&mid=NuBr",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6c496b66-fcfa-43fa-a178-6256ed8f2bc6?aid=01M7861K9WD97YPEZ647XP8RXX&mid=NuBr",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Man wearing a mustard yellow sweatshirt and grey sweatpants."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/65b74dea-a95a-4c9a-9718-22866f47117e?aid=01M7861K9WD97YPEZ647XP8RXX&mid=NuBr",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/65b74dea-a95a-4c9a-9718-22866f47117e?aid=01M7861K9WD97YPEZ647XP8RXX&mid=NuBr",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Back view of a mustard yellow sweatshirt and grey sweatpants."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/df806db1-0e5d-4eca-a725-a4253b2d5b60?aid=01M7861K9WD97YPEZ647XP8RXX&mid=NuBr",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Man wearing a mustard yellow sweatshirt with a pocket and grey sweatpants."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/b6dba7ad-2e73-4a2e-b2dc-c431586928c7?aid=01M7861K9WD97YPEZ647XP8RXX&mid=NuBr",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Close-up of the front of a brown/mustard long-sleeve sweatshirt."
+            }
+          ],
+          "category": {
+            "slug": "sweatshirts-3",
+            "title": "Sweatshirts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "shirts-tops",
+                "title": "Shirts & Tops"
+              },
+              {
+                "slug": "sweatshirts-3",
+                "title": "Sweatshirts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "male",
+          "age": "adult",
+          "materials": [
+            "100% Polyester"
+          ],
+          "key_features": [
+            "High neck",
+            "Zip fastening",
+            "Side pocket",
+            "Long-sleeved"
+          ],
+          "colors": [
+            {
+              "hex": "#b28038",
+              "percentage": 0.8312
+            },
+            {
+              "hex": "#caa87e",
+              "percentage": 0.0863
+            },
+            {
+              "hex": "#744d1d",
+              "percentage": 0.0825
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/8d2a3XV-NuBr-2mDhp7?o=01M64SYP489A22272ZK8CHY85R&aid=01M7861K9WD97YPEZ647XP8RXX",
+              "domain": "farfetch.com",
+              "price": {
+                "price": 194.0,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.0,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "fabric": [
+              "Polyester"
+            ],
+            "neckline": [
+              "Mock"
+            ],
+            "decoration-technique": [
+              "Embroidery"
+            ],
+            "pattern": [
+              "Solid"
+            ],
+            "placket-type": [
+              "Full-zip"
+            ],
+            "sweatshirt-pocket-type": [
+              "Side seam pocket"
+            ],
+            "activity": [
+              "Universal"
+            ],
+            "chest-pocket-style": [
+              "None"
+            ],
+            "sleeve-length-type": [
+              "Long"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "ehlBrkv",
+          "title": "Blaze Fitted Sweatshirt",
+          "description": "The Blaze Fitted Sweatshirt by SEAS is an elevated basic designed for a modern, off-duty look. Made from 100% cotton vintage fleece, this sweatshirt features a flattering fitted silhouette with a snatched waistline, a classic crew neck, and stylish raw edges for a chill, sophisticated vibe.",
+          "brands": [
+            {
+              "id": "Yiup",
+              "name": "78 & Sunny"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/dc88e2c4-776f-4d7b-8df5-578cd0f41a57?aid=01M7861K9WD97YPEZ647XP8RXX&mid=e0aD",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/dc88e2c4-776f-4d7b-8df5-578cd0f41a57?aid=01M7861K9WD97YPEZ647XP8RXX&mid=e0aD",
+              "is_main_image": true,
+              "shot_type": "on_model",
+              "alt_text": "Front view of a woman wearing a dark navy sweatshirt and black pants."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/f03e98dc-b15e-468d-ad9c-095c7424eb3f?aid=01M7861K9WD97YPEZ647XP8RXX&mid=e0aD",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Woman wearing a grey sweatshirt with a patterned scarf outdoors."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/90c0aeae-02af-4a85-9e76-1a0f18448951?aid=01M7861K9WD97YPEZ647XP8RXX&mid=e0aD",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/90c0aeae-02af-4a85-9e76-1a0f18448951?aid=01M7861K9WD97YPEZ647XP8RXX&mid=e0aD",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Back view of a woman wearing a dark navy fitted sweatshirt."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/0de63495-e7d6-498f-af35-8d55298cfc2b?aid=01M7861K9WD97YPEZ647XP8RXX&mid=e0aD",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0de63495-e7d6-498f-af35-8d55298cfc2b?aid=01M7861K9WD97YPEZ647XP8RXX&mid=e0aD",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Front view of a woman wearing a dark navy sweatshirt."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/7973257e-ab67-4748-9836-c2d2e9c3f654?aid=01M7861K9WD97YPEZ647XP8RXX&mid=e0aD",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7973257e-ab67-4748-9836-c2d2e9c3f654?aid=01M7861K9WD97YPEZ647XP8RXX&mid=e0aD",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Woman wearing a dark navy sweatshirt and black pants."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/f2e43340-2d9e-462b-8862-f95ed49c785e?aid=01M7861K9WD97YPEZ647XP8RXX&mid=e0aD",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f2e43340-2d9e-462b-8862-f95ed49c785e?aid=01M7861K9WD97YPEZ647XP8RXX&mid=e0aD",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Front view of a woman wearing a dark navy sweatshirt."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/4817dae0-d822-4324-84a6-7353f3917e4f?aid=01M7861K9WD97YPEZ647XP8RXX&mid=e0aD",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4817dae0-d822-4324-84a6-7353f3917e4f?aid=01M7861K9WD97YPEZ647XP8RXX&mid=e0aD",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Front view of a woman wearing a dark navy sweatshirt and black pants."
+            }
+          ],
+          "category": {
+            "slug": "sweatshirts-3",
+            "title": "Sweatshirts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "shirts-tops",
+                "title": "Shirts & Tops"
+              },
+              {
+                "slug": "sweatshirts-3",
+                "title": "Sweatshirts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "female",
+          "age": "adult",
+          "materials": [
+            "100% cotton"
+          ],
+          "key_features": [
+            "Fitted silhouette",
+            "Crew neck",
+            "Vintage fleece",
+            "100% cotton",
+            "Raw edges",
+            "Snatched waistline"
+          ],
+          "colors": [
+            {
+              "hex": "#2f3440",
+              "percentage": 0.6982
+            },
+            {
+              "hex": "#111010",
+              "percentage": 0.231
+            },
+            {
+              "hex": "#6c6c70",
+              "percentage": 0.0708
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/ehlBrkv-e0aD-2mDhp7?o=01M25WXSHDPKNBYT8GBPZVFXDT&aid=01M7861K9WD97YPEZ647XP8RXX",
+              "domain": "78andsunnyapparel.com",
+              "price": {
+                "price": 79.0,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.0,
+              "dimensions": null
+            }
+          ],
+          "variants": {
+            "options": [
+              {
+                "name": "Size",
+                "values": [
+                  {
+                    "label": "S",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "XL",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  }
+                ]
+              }
+            ],
+            "selected": []
+          },
+          "structured_attributes": {
+            "sleeve-length-type": [
+              "Long"
+            ],
+            "neckline": [
+              "Crew"
+            ],
+            "pattern": [
+              "Solid"
+            ],
+            "clothing-features": [
+              "Breathable design"
+            ],
+            "fabric": [
+              "Cotton"
+            ],
+            "top-fit": [
+              "Fitted"
+            ],
+            "sweatshirt-pocket-type": [
+              "Front pouch pocket"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "fhX6TTJ",
+          "title": "Blaze Sweater",
+          "description": "The Blaze Sweater by Harleys of Scotland is a classic crewneck knit featuring a pristine melange of college kelly green, lime, and mustard. This sweater is crafted from 100% wool and is made in Scotland.",
+          "brands": [
+            {
+              "id": "C7C9",
+              "name": "HARLEYS"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/928677c2-c051-45a7-9326-8ceb74f88447?aid=01M7861K9WD97YPEZ647XP8RXX&mid=JSGM",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/928677c2-c051-45a7-9326-8ceb74f88447?aid=01M7861K9WD97YPEZ647XP8RXX&mid=JSGM",
+              "is_main_image": true,
+              "shot_type": "hero",
+              "alt_text": "Green crewneck sweater laid flat on a white background."
+            }
+          ],
+          "category": {
+            "slug": "sweaters-2",
+            "title": "Sweaters",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "shirts-tops",
+                "title": "Shirts & Tops"
+              },
+              {
+                "slug": "sweaters-2",
+                "title": "Sweaters"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "male",
+          "age": "adult",
+          "materials": [
+            "100% Wool"
+          ],
+          "key_features": [
+            "Crewneck knit",
+            "Melange color pattern",
+            "Made in Scotland"
+          ],
+          "colors": [
+            {
+              "hex": "#76995c",
+              "percentage": 0.9529
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/fhX6TTJ-JSGM-2mDhp7?o=01M37XQ2GPCZH0Y3ZR1F64TNFT&aid=01M7861K9WD97YPEZ647XP8RXX",
+              "domain": "garmentory.com",
+              "price": {
+                "price": 205.0,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.0,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "pattern": [
+              "Solid"
+            ],
+            "top-fit": [
+              "Regular"
+            ],
+            "sleeve-length-type": [
+              "Long"
+            ],
+            "neckline": [
+              "Crew"
+            ],
+            "fabric": [
+              "Wool"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "9ztjewT",
+          "title": "Blaze V3 Hoodie",
+          "description": "Hooded fleece pullover with a front pocket and branded Blaze V3 logo. Made from a cotton and recycled polyester blend for a soft feel and comfortable fit. The hoodie features a jersey-lined hood with drawcords, ribbed cuffs and hem, and a standard relaxed fit suitable for everyday wear. Color shown: White with navy Blaze logo. Size XS.",
+          "brands": [
+            {
+              "id": "7Jpb",
+              "name": "Alpinestars"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/929cff08-d829-41ec-8eec-a084bd664ca8?aid=01M7861K9WD97YPEZ647XP8RXX&mid=UiHK",
+              "cleaned_url": null,
+              "is_main_image": true,
+              "shot_type": "lifestyle",
+              "alt_text": "White Blaze V3 hoodie with black stars logo on the chest."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/894324c9-177a-4844-9f1b-907d229323c9?aid=01M7861K9WD97YPEZ647XP8RXX&mid=UiHK",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "lifestyle",
+              "alt_text": "Man wearing a white Blaze V3 hoodie and dark jeans."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/2f87f642-00bd-481f-a2e1-6c052acd193b?aid=01M7861K9WD97YPEZ647XP8RXX&mid=UiHK",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "lifestyle",
+              "alt_text": "Man wearing a white Blaze V3 hoodie and dark jeans."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/9e5327fb-85e8-464f-99d0-abefa2468618?aid=01M7861K9WD97YPEZ647XP8RXX&mid=UiHK",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "lifestyle",
+              "alt_text": "Back view of a white Blaze V3 hoodie."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/c9a31871-e8b4-4125-b5b0-49097ca5a1d9?aid=01M7861K9WD97YPEZ647XP8RXX&mid=UiHK",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "detail",
+              "alt_text": "Close-up of the Blaze V3 hoodie drawstring and logo."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/f7ad983a-7a5b-4682-8cf8-ffa542bc5155?aid=01M7861K9WD97YPEZ647XP8RXX&mid=UiHK",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "detail",
+              "alt_text": "Close-up of the Blaze V3 hoodie logo and drawstrings."
+            }
+          ],
+          "category": {
+            "slug": "hoodies-3",
+            "title": "Hoodies",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "shirts-tops",
+                "title": "Shirts & Tops"
+              },
+              {
+                "slug": "hoodies-3",
+                "title": "Hoodies"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": null,
+          "age": null,
+          "materials": [
+            "80% Cotton",
+            "20% Recycled Polyester"
+          ],
+          "key_features": [
+            "Hooded pull over fleece",
+            "Solid pull over body and sleeves",
+            "Front Blaze 2.0 logo print",
+            "Jersey hood lining, dipped drawcord tips, rib cuffs and hem",
+            "Internal main label and external label branding",
+            "80% Cotton, 20% Recycled Polyester"
+          ],
+          "colors": [],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/9ztjewT-UiHK-2mDhp7?o=01M35YDBDZ1JBNNAEFSJW0BPWT&aid=01M7861K9WD97YPEZ647XP8RXX",
+              "domain": "jpcycles.com",
+              "price": {
+                "price": 45.47,
+                "compare_at_price": 69.95,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.049,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "neckline": [
+              "Hooded"
+            ],
+            "fabric": [
+              "Cotton",
+              "Polyester"
+            ]
+          },
+          "ratings": null
+        }
+      ],
+      "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjM2MTM5YzdjYTcyOWFlNmIiLCAib2Zmc2V0IjogNX0="
+    }
+  },
+  {
+    "filename": "trousers_pants_jeans_shorts_skirt_3.png",
+    "label": "trousers pants jeans shorts skirt",
+    "storage_path": "8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/4b0b7c95ac2b_trousers_pants_jeans_shorts_skirt_3.png",
+    "matches": {
+      "products": [
+        {
+          "id": "Awz5GtN",
+          "title": "HAZE SKIRT PANTS SHORTS",
+          "description": "The Haze skort in khaki blends vintage charm with modern functionality. This versatile piece features a skirt-like exterior with concealed shorts made from a mixed-tone terry fabric. Designed for everyday wear and comfort in warm weather, it includes raw-cut edges, decorative stitching, and a practical kangaroo pocket, all in a relaxed silhouette.",
+          "brands": [
+            {
+              "id": "eQ8E",
+              "name": "SETSETSET"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/055cfa10-b4d0-4659-b13d-ccf9e31d3be5?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/055cfa10-b4d0-4659-b13d-ccf9e31d3be5?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "is_main_image": true,
+              "shot_type": "on_model",
+              "alt_text": "Model wearing a black shirt and grey shorts."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/2382b33e-7869-46a0-8585-518d673bf68a?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2382b33e-7869-46a0-8585-518d673bf68a?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "is_main_image": false,
+              "shot_type": "flat_lay",
+              "alt_text": "Grey frayed shorts laid flat, showing drawstring waist."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/f1b7cd6b-8720-48d3-81a9-b460b1058ffe?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f1b7cd6b-8720-48d3-81a9-b460b1058ffe?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Model wearing a black shirt and grey shorts."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/9b3c3d99-f73c-4bcb-a2e6-b91ad080bbba?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Model wearing a black shirt and grey shorts from the back."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/b02f4046-0729-4ff1-a11e-098496fc1aa4?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "lifestyle",
+              "alt_text": "Model wearing striped top and grey shorts."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/60ac5df9-f0d2-4df9-bcf1-fa2b0c9625e8?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/60ac5df9-f0d2-4df9-bcf1-fa2b0c9625e8?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Model wearing a black shirt and grey shorts."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/9553e15c-e580-440f-8496-283038e471ab?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9553e15c-e580-440f-8496-283038e471ab?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Model wearing a black shirt and grey shorts."
+            }
+          ],
+          "category": {
+            "slug": "skorts",
+            "title": "Skorts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "skorts",
+                "title": "Skorts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "female",
+          "age": "adult",
+          "materials": [
+            "cotton",
+            "polyester"
+          ],
+          "key_features": [
+            "Skirt-like appearance with concealed shorts",
+            "Mixed-tone terry fabric",
+            "Raw-cut edges",
+            "Decorative stitching",
+            "Kangaroo pocket",
+            "Relaxed silhouette"
+          ],
+          "colors": [
+            {
+              "hex": "#2f2d31",
+              "percentage": 0.6052
+            },
+            {
+              "hex": "#4f4b51",
+              "percentage": 0.3095
+            },
+            {
+              "hex": "#7f787f",
+              "percentage": 0.0852
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/Awz5GtN-4SSG-2mDhp7?o=01M3B7S96K6GVNHT6W8A04BBQZ&aid=01M7861MVR62BD1SWFYATNW0KQ",
+              "domain": "wconcept.com",
+              "price": {
+                "price": 120.0,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.042,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "clothing-features": [
+              "Lightweight"
+            ],
+            "fit": [
+              "Relaxed"
+            ],
+            "pants-length-type": [
+              "Above the knee"
+            ],
+            "pattern": [
+              "Solid"
+            ],
+            "fabric": [
+              "Cotton",
+              "Polyester",
+              "Terrycloth"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "yZKsfaj",
+          "title": "Skirt Pants Shorts",
+          "description": "These innovative bottoms from Antome feature a design that looks like a mini skirt overlay but functions as secure and comfortable pants. Made from a polyester blend with stretch, they offer a flattering A-line silhouette that elongates the legs, complemented by practical side pockets. The structured yet comfortable fit makes them highly versatile for various occasions, transitioning easily from day to evening wear.",
+          "brands": [
+            {
+              "id": "s4wC",
+              "name": "Antome"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/68568a10-dfc4-4771-a097-f4cd31af9868?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "cleaned_url": null,
+              "is_main_image": true,
+              "shot_type": "on_model",
+              "alt_text": "Woman wearing cream top, black skirt, and black boots against a white background."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/708974cf-bf47-47e4-85c6-2a3147602e95?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Close-up of a woman wearing a cream top and black skirt."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/ad026ef9-c68f-4979-89e4-7e2cf257ee01?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Woman wearing cream top, black skirt, and black boots."
+            }
+          ],
+          "category": {
+            "slug": "skorts",
+            "title": "Skorts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "skorts",
+                "title": "Skorts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "female",
+          "age": "adult",
+          "materials": [
+            "polyester",
+            "polyurethane"
+          ],
+          "key_features": [
+            "Hybrid design: Skirt overlay on pants structure",
+            "A-line silhouette for a leg-lengthening effect",
+            "Premium polyester blend with added stretch for comfort",
+            "Convenient side pockets",
+            "Smooth, structured look"
+          ],
+          "colors": [
+            {
+              "hex": "#1a1816",
+              "percentage": 0.7536
+            },
+            {
+              "hex": "#c4b6aa",
+              "percentage": 0.1271
+            },
+            {
+              "hex": "#67584d",
+              "percentage": 0.1193
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/yZKsfaj-4SSG-2mDhp7?o=01KCSM0Y3KCA7N7CAH9YA08QGF&aid=01M7861MVR62BD1SWFYATNW0KQ",
+              "domain": "wconcept.com",
+              "price": {
+                "price": 119.0,
+                "compare_at_price": 132.0,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.042,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "clothing-features": [
+              "Stretchable"
+            ],
+            "fabric": [
+              "Polyester"
+            ],
+            "pattern": [
+              "Solid"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "zSVvNBA",
+          "title": "Trousers Jeans",
+          "description": "These white jeans from Rier are crafted from 100% cotton denim, offering a clean and tailored silhouette. They feature a mid-rise waist, a full-length cut, a crisp front closure, and traditional pocket construction with a flat front profile. Made in Italy, these trousers provide understated refinement for versatile everyday wear.",
+          "brands": [
+            {
+              "id": "nUSG",
+              "name": "RIER"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/aedf62a4-4446-448f-a0cc-e3e18a5af1dc?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=sBqr",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/aedf62a4-4446-448f-a0cc-e3e18a5af1dc?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=sBqr",
+              "is_main_image": true,
+              "shot_type": "hero",
+              "alt_text": "White trousers hanging vertically on a plain background."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/0f3aa7cb-8d7a-4377-9729-51a9f6142d88?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=sBqr",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0f3aa7cb-8d7a-4377-9729-51a9f6142d88?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=sBqr",
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "White trousers hanging vertically on a plain background from the back."
+            }
+          ],
+          "category": {
+            "slug": "jeans-3",
+            "title": "Jeans",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "pants",
+                "title": "Pants"
+              },
+              {
+                "slug": "jeans-3",
+                "title": "Jeans"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "male",
+          "age": "adult",
+          "materials": [
+            "Cotton"
+          ],
+          "key_features": [
+            "100% cotton denim",
+            "Mid-rise waist",
+            "Full-length cut",
+            "Traditional pocket construction",
+            "Flat front profile",
+            "Made in Italy",
+            "Straight leg"
+          ],
+          "colors": [
+            {
+              "hex": "#e3e2d9",
+              "percentage": 0.8186
+            },
+            {
+              "hex": "#fffffd",
+              "percentage": 0.1814
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/zSVvNBA-sBqr-2mDhp7?o=01M4KSZ30W2HEYJ8H8STQ5RKKN&aid=01M7861MVR62BD1SWFYATNW0KQ",
+              "domain": "italist.com",
+              "price": {
+                "price": 552.0,
+                "compare_at_price": 1314.0,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.07,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "pants-length-type": [
+              "Long"
+            ],
+            "distressing-style": [
+              "None"
+            ],
+            "fit": [
+              "Relaxed"
+            ],
+            "pattern": [
+              "Solid"
+            ],
+            "fabric": [
+              "Cotton",
+              "Denim"
+            ],
+            "distressing-level": [
+              "None"
+            ],
+            "waist-rise": [
+              "Mid"
+            ],
+            "front-style": [
+              "Flat front"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "YE1ydHd",
+          "title": "Bell Bottom Pants Jeans",
+          "description": "Hello! Welcome to our store - YYDGH! Please not only reference the size guide provided by walmart but also have to reference ours!!! Lace-up Bell Bottom Pants Jeans for Women Mid Waisted Wide Leg Bootcut Slim Denim Pants Trousers Light Blue S Specification: Gender: Women Lady Female Season: Spring Summer Autumn Winter Material: 95% Polyester 5% Spandex Style: Fashion Casual Home Daily. How to wash:Hand wash Cold Hang or Line Dry. Features: The fabric is stretchy and soft that definitely keep you cool and comfortable when the weather gets hot. Occasion: Suitable for festivals Christmas celebrations and daily wear office work party dating street wear holidays. Cute and colorful let you attract friends attention! Notice: 1.Please allow 3-5cm error due to manual measurement and make sure you do not mind before ordering. 2.Please understand that colors may exist chromatic aberration as the different placement of pictures. Size.: Small US: 4 UK: 8 EU: 34 Waist: 78cm/30.71 Hip: 98cm/38.58 Length: 104.5cm/41.14 Size.: Medium US: 6 UK: 10 EU: 36 Waist: 82cm/32.28 Hip: 102cm/40.16 Length: 106cm/41.73 Size.: Large US: 8 UK: 12 EU: 38 Waist: 86cm/33.86 Hip: 106cm/41.73 Length: 107.5cm/42.32 Size.: X-Large US: 10 UK: 14 EU: 40 Waist: 90cm/35.43 Hip: 110cm/43.31 Length: 109cm/42.91 Size.: 2X-Large US: 12 UK: 16 EU: 42 Waist: 94cm/37.01 Hip: 114cm/44.88 Length: 110.5cm/43.50 Size.: 3X-Large US: 14 UK: 18 EU: 44 Waist: 98cm/38.58 Hip: 118cm/46.46 Length: 112cm/44.09 Size.: 4X-Large US: 16 UK: 20 EU: 46 Waist: 102cm/40.16 Hip: 122cm/48.03 Length: 113.5cm/44.69",
+          "brands": [
+            {
+              "id": "RW8Z",
+              "name": "Walmart"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/31689b57-90e6-457e-b132-eea8b52b4cf6?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=BsaX",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/31689b57-90e6-457e-b132-eea8b52b4cf6?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=BsaX",
+              "is_main_image": true,
+              "shot_type": "on_model",
+              "alt_text": "Woman wearing light blue lace-up bell bottom jeans."
+            }
+          ],
+          "category": {
+            "slug": "jeans-3",
+            "title": "Jeans",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "pants",
+                "title": "Pants"
+              },
+              {
+                "slug": "jeans-3",
+                "title": "Jeans"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "female",
+          "age": null,
+          "materials": [
+            "Polyester",
+            "Spandex"
+          ],
+          "key_features": [
+            "Lace-up design",
+            "Mid-waisted",
+            "Wide leg bootcut",
+            "Stretchy and soft fabric",
+            "Suitable for all seasons"
+          ],
+          "colors": [
+            {
+              "hex": "#6d93c8",
+              "percentage": 0.8366
+            },
+            {
+              "hex": "#3e4e70",
+              "percentage": 0.0923
+            },
+            {
+              "hex": "#9ebce5",
+              "percentage": 0.071
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/YE1ydHd-BsaX-2mDhp7?o=01M387ADNHDN1KKY6KB844JRWB&aid=01M7861MVR62BD1SWFYATNW0KQ",
+              "domain": "walmart.com",
+              "price": {
+                "price": 13.93,
+                "compare_at_price": 15.56,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.07,
+              "dimensions": {
+                "length": {
+                  "number": 104.5,
+                  "unit": "cm"
+                },
+                "width": null,
+                "height": null,
+                "weight": null
+              }
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "fit": [
+              "Skinny leg"
+            ],
+            "pattern": [
+              "Solid"
+            ],
+            "waist-rise": [
+              "Mid"
+            ],
+            "fabric": [
+              "Denim"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "qGIKIkl",
+          "title": "Mini Skirt Pants Shorts",
+          "description": "These camino mini skirt pants blend the chic silhouette of a skirt with the comfort of shorts. Featuring a minimalist black design, they offer a sophisticated look that is versatile enough to be dressed up or down for any occasion.",
+          "brands": [
+            {
+              "id": "EbCX",
+              "name": "Camino"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/379d3063-4c65-4947-bd5c-35f63ae6223c?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/379d3063-4c65-4947-bd5c-35f63ae6223c?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "is_main_image": true,
+              "shot_type": "on_model",
+              "alt_text": "Model wearing a black mini skirt outfit with white socks and red shoes."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/28b65cdc-7a52-4f73-b2c0-93152d46464c?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/28b65cdc-7a52-4f73-b2c0-93152d46464c?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Model wearing a black mini skirt outfit with white socks and red shoes."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/d4d71228-73ce-463e-8aa8-9e09ea1dc3fa?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d4d71228-73ce-463e-8aa8-9e09ea1dc3fa?aid=01M7861MVR62BD1SWFYATNW0KQ&mid=4SSG",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Model wearing a black mini skirt outfit with white socks and red shoes."
+            }
+          ],
+          "category": {
+            "slug": "skorts",
+            "title": "Skorts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "skorts",
+                "title": "Skorts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "female",
+          "age": "adult",
+          "materials": [
+            "POLYESTER 100%"
+          ],
+          "key_features": [
+            "Minimalist design",
+            "Skirt-pants hybrid for comfort and style",
+            "Versatile for dressing up or down"
+          ],
+          "colors": [
+            {
+              "hex": "#9a7260",
+              "percentage": 0.4486
+            },
+            {
+              "hex": "#11100e",
+              "percentage": 0.3898
+            },
+            {
+              "hex": "#a78f85",
+              "percentage": 0.113
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/qGIKIkl-4SSG-2mDhp7?o=01M38DNB1ZZHRTE226TH41NKMD&aid=01M7861MVR62BD1SWFYATNW0KQ",
+              "domain": "wconcept.com",
+              "price": {
+                "price": 103.0,
+                "compare_at_price": 139.0,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.042,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "pattern": [
+              "Solid"
+            ],
+            "fabric": [
+              "Polyester"
+            ],
+            "pants-length-type": [
+              "Above the knee"
+            ],
+            "care-instructions": [
+              "Dry clean only",
+              "Hand wash"
+            ]
+          },
+          "ratings": null
+        }
+      ],
+      "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjNkZTQ1NTFhODJlNDgwZjkiLCAib2Zmc2V0IjogNX0="
+    }
+  },
+  {
+    "filename": "trousers_pants_jeans_shorts_skirt_4.png",
+    "label": "trousers pants jeans shorts skirt",
+    "storage_path": "8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/b3ebff703f04_trousers_pants_jeans_shorts_skirt_4.png",
+    "matches": {
+      "products": [
+        {
+          "id": "Awz5GtN",
+          "title": "HAZE SKIRT PANTS SHORTS",
+          "description": "The Haze skort in khaki blends vintage charm with modern functionality. This versatile piece features a skirt-like exterior with concealed shorts made from a mixed-tone terry fabric. Designed for everyday wear and comfort in warm weather, it includes raw-cut edges, decorative stitching, and a practical kangaroo pocket, all in a relaxed silhouette.",
+          "brands": [
+            {
+              "id": "eQ8E",
+              "name": "SETSETSET"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/055cfa10-b4d0-4659-b13d-ccf9e31d3be5?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/055cfa10-b4d0-4659-b13d-ccf9e31d3be5?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "is_main_image": true,
+              "shot_type": "on_model",
+              "alt_text": "Model wearing a black shirt and grey shorts."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/2382b33e-7869-46a0-8585-518d673bf68a?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2382b33e-7869-46a0-8585-518d673bf68a?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "is_main_image": false,
+              "shot_type": "flat_lay",
+              "alt_text": "Grey frayed shorts laid flat, showing drawstring waist."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/f1b7cd6b-8720-48d3-81a9-b460b1058ffe?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f1b7cd6b-8720-48d3-81a9-b460b1058ffe?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Model wearing a black shirt and grey shorts."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/9b3c3d99-f73c-4bcb-a2e6-b91ad080bbba?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Model wearing a black shirt and grey shorts from the back."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/b02f4046-0729-4ff1-a11e-098496fc1aa4?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "lifestyle",
+              "alt_text": "Model wearing striped top and grey shorts."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/60ac5df9-f0d2-4df9-bcf1-fa2b0c9625e8?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/60ac5df9-f0d2-4df9-bcf1-fa2b0c9625e8?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Model wearing a black shirt and grey shorts."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/9553e15c-e580-440f-8496-283038e471ab?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9553e15c-e580-440f-8496-283038e471ab?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Model wearing a black shirt and grey shorts."
+            }
+          ],
+          "category": {
+            "slug": "skorts",
+            "title": "Skorts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "skorts",
+                "title": "Skorts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "female",
+          "age": "adult",
+          "materials": [
+            "cotton",
+            "polyester"
+          ],
+          "key_features": [
+            "Skirt-like appearance with concealed shorts",
+            "Mixed-tone terry fabric",
+            "Raw-cut edges",
+            "Decorative stitching",
+            "Kangaroo pocket",
+            "Relaxed silhouette"
+          ],
+          "colors": [
+            {
+              "hex": "#2f2d31",
+              "percentage": 0.6052
+            },
+            {
+              "hex": "#4f4b51",
+              "percentage": 0.3095
+            },
+            {
+              "hex": "#7f787f",
+              "percentage": 0.0852
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/Awz5GtN-4SSG-2mDhp7?o=01M3B7S96K6GVNHT6W8A04BBQZ&aid=01M7861NY17RGG02FA8QQWNZ7E",
+              "domain": "wconcept.com",
+              "price": {
+                "price": 120.0,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.042,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "clothing-features": [
+              "Lightweight"
+            ],
+            "fit": [
+              "Relaxed"
+            ],
+            "pants-length-type": [
+              "Above the knee"
+            ],
+            "pattern": [
+              "Solid"
+            ],
+            "fabric": [
+              "Cotton",
+              "Polyester",
+              "Terrycloth"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "yZKsfaj",
+          "title": "Skirt Pants Shorts",
+          "description": "These innovative bottoms from Antome feature a design that looks like a mini skirt overlay but functions as secure and comfortable pants. Made from a polyester blend with stretch, they offer a flattering A-line silhouette that elongates the legs, complemented by practical side pockets. The structured yet comfortable fit makes them highly versatile for various occasions, transitioning easily from day to evening wear.",
+          "brands": [
+            {
+              "id": "s4wC",
+              "name": "Antome"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/68568a10-dfc4-4771-a097-f4cd31af9868?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "cleaned_url": null,
+              "is_main_image": true,
+              "shot_type": "on_model",
+              "alt_text": "Woman wearing cream top, black skirt, and black boots against a white background."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/708974cf-bf47-47e4-85c6-2a3147602e95?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Close-up of a woman wearing a cream top and black skirt."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/ad026ef9-c68f-4979-89e4-7e2cf257ee01?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Woman wearing cream top, black skirt, and black boots."
+            }
+          ],
+          "category": {
+            "slug": "skorts",
+            "title": "Skorts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "skorts",
+                "title": "Skorts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "female",
+          "age": "adult",
+          "materials": [
+            "polyester",
+            "polyurethane"
+          ],
+          "key_features": [
+            "Hybrid design: Skirt overlay on pants structure",
+            "A-line silhouette for a leg-lengthening effect",
+            "Premium polyester blend with added stretch for comfort",
+            "Convenient side pockets",
+            "Smooth, structured look"
+          ],
+          "colors": [
+            {
+              "hex": "#1a1816",
+              "percentage": 0.7536
+            },
+            {
+              "hex": "#c4b6aa",
+              "percentage": 0.1271
+            },
+            {
+              "hex": "#67584d",
+              "percentage": 0.1193
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/yZKsfaj-4SSG-2mDhp7?o=01KCSM0Y3KCA7N7CAH9YA08QGF&aid=01M7861NY17RGG02FA8QQWNZ7E",
+              "domain": "wconcept.com",
+              "price": {
+                "price": 119.0,
+                "compare_at_price": 132.0,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.042,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "clothing-features": [
+              "Stretchable"
+            ],
+            "fabric": [
+              "Polyester"
+            ],
+            "pattern": [
+              "Solid"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "zSVvNBA",
+          "title": "Trousers Jeans",
+          "description": "These white jeans from Rier are crafted from 100% cotton denim, offering a clean and tailored silhouette. They feature a mid-rise waist, a full-length cut, a crisp front closure, and traditional pocket construction with a flat front profile. Made in Italy, these trousers provide understated refinement for versatile everyday wear.",
+          "brands": [
+            {
+              "id": "nUSG",
+              "name": "RIER"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/aedf62a4-4446-448f-a0cc-e3e18a5af1dc?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=sBqr",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/aedf62a4-4446-448f-a0cc-e3e18a5af1dc?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=sBqr",
+              "is_main_image": true,
+              "shot_type": "hero",
+              "alt_text": "White trousers hanging vertically on a plain background."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/0f3aa7cb-8d7a-4377-9729-51a9f6142d88?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=sBqr",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0f3aa7cb-8d7a-4377-9729-51a9f6142d88?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=sBqr",
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "White trousers hanging vertically on a plain background from the back."
+            }
+          ],
+          "category": {
+            "slug": "jeans-3",
+            "title": "Jeans",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "pants",
+                "title": "Pants"
+              },
+              {
+                "slug": "jeans-3",
+                "title": "Jeans"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "male",
+          "age": "adult",
+          "materials": [
+            "Cotton"
+          ],
+          "key_features": [
+            "100% cotton denim",
+            "Mid-rise waist",
+            "Full-length cut",
+            "Traditional pocket construction",
+            "Flat front profile",
+            "Made in Italy",
+            "Straight leg"
+          ],
+          "colors": [
+            {
+              "hex": "#e3e2d9",
+              "percentage": 0.8186
+            },
+            {
+              "hex": "#fffffd",
+              "percentage": 0.1814
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/zSVvNBA-sBqr-2mDhp7?o=01M4KSZ30W2HEYJ8H8STQ5RKKN&aid=01M7861NY17RGG02FA8QQWNZ7E",
+              "domain": "italist.com",
+              "price": {
+                "price": 552.0,
+                "compare_at_price": 1314.0,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.07,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "pants-length-type": [
+              "Long"
+            ],
+            "distressing-style": [
+              "None"
+            ],
+            "fit": [
+              "Relaxed"
+            ],
+            "pattern": [
+              "Solid"
+            ],
+            "fabric": [
+              "Cotton",
+              "Denim"
+            ],
+            "distressing-level": [
+              "None"
+            ],
+            "waist-rise": [
+              "Mid"
+            ],
+            "front-style": [
+              "Flat front"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "qGIKIkl",
+          "title": "Mini Skirt Pants Shorts",
+          "description": "These camino mini skirt pants blend the chic silhouette of a skirt with the comfort of shorts. Featuring a minimalist black design, they offer a sophisticated look that is versatile enough to be dressed up or down for any occasion.",
+          "brands": [
+            {
+              "id": "EbCX",
+              "name": "Camino"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/379d3063-4c65-4947-bd5c-35f63ae6223c?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/379d3063-4c65-4947-bd5c-35f63ae6223c?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "is_main_image": true,
+              "shot_type": "on_model",
+              "alt_text": "Model wearing a black mini skirt outfit with white socks and red shoes."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/28b65cdc-7a52-4f73-b2c0-93152d46464c?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/28b65cdc-7a52-4f73-b2c0-93152d46464c?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Model wearing a black mini skirt outfit with white socks and red shoes."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/d4d71228-73ce-463e-8aa8-9e09ea1dc3fa?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d4d71228-73ce-463e-8aa8-9e09ea1dc3fa?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=4SSG",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Model wearing a black mini skirt outfit with white socks and red shoes."
+            }
+          ],
+          "category": {
+            "slug": "skorts",
+            "title": "Skorts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "skorts",
+                "title": "Skorts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "female",
+          "age": "adult",
+          "materials": [
+            "POLYESTER 100%"
+          ],
+          "key_features": [
+            "Minimalist design",
+            "Skirt-pants hybrid for comfort and style",
+            "Versatile for dressing up or down"
+          ],
+          "colors": [
+            {
+              "hex": "#9a7260",
+              "percentage": 0.4486
+            },
+            {
+              "hex": "#11100e",
+              "percentage": 0.3898
+            },
+            {
+              "hex": "#a78f85",
+              "percentage": 0.113
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/qGIKIkl-4SSG-2mDhp7?o=01M38DNB1ZZHRTE226TH41NKMD&aid=01M7861NY17RGG02FA8QQWNZ7E",
+              "domain": "wconcept.com",
+              "price": {
+                "price": 103.0,
+                "compare_at_price": 139.0,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.042,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "pattern": [
+              "Solid"
+            ],
+            "fabric": [
+              "Polyester"
+            ],
+            "pants-length-type": [
+              "Above the knee"
+            ],
+            "care-instructions": [
+              "Dry clean only",
+              "Hand wash"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "aS0HegD",
+          "title": "Skirt trousers",
+          "description": "These black skirt trousers from Mango feature a fluid fabric and a skort design. They have a side zip closure and a mid-rise fit. The tailored cut and smooth fabric give them a polished look, falling to approximately mid-calf with a wide, straight leg silhouette and a clean hemline.",
+          "brands": [
+            {
+              "id": "tWvc",
+              "name": "Mango"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/2ce79e07-5a25-4b2d-8833-3a551a3ffd84?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=IqeC",
+              "cleaned_url": "https://cdn.trychannel3.com/bfbe8bfb-d7b0-4dfa-88ba-c00eb9975598?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=IqeC",
+              "is_main_image": true,
+              "shot_type": "hero",
+              "alt_text": "Black wrap-style skirt pants shown from the front."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/58605cf3-5b9f-4c9a-b3b5-f22f00c8f802?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=IqeC",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/58605cf3-5b9f-4c9a-b3b5-f22f00c8f802?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=IqeC",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "A person wearing black skirt pants and a black leather jacket."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/a94b3b9b-ffae-4381-b5b2-306525f10b4e?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=IqeC",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a94b3b9b-ffae-4381-b5b2-306525f10b4e?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=IqeC",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Back view of a person wearing black skirt pants and a black leather jacket."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/d189a7f1-0d42-4fff-a663-c17dba2c9584?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=IqeC",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Close-up of the waist and front of black skirt pants being worn."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/24eb3e08-4945-40b5-ab49-cc5932e754cf?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=IqeC",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/24eb3e08-4945-40b5-ab49-cc5932e754cf?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=IqeC",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Full length view of a person wearing black skirt pants, a leather jacket, and sandals."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/946804db-1d81-42f6-aa1c-e9db561e2f80?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=IqeC",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "detail",
+              "alt_text": "Close-up of the waistband and zipper of black skirt pants."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/c665a0b2-2391-483d-829c-069a963478ff?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=IqeC",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "detail",
+              "alt_text": "Close-up of the fabric and drape of the black skirt pants."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/5108100f-5f24-471e-91ba-85a01fa71961?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=IqeC",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5108100f-5f24-471e-91ba-85a01fa71961?aid=01M7861NY17RGG02FA8QQWNZ7E&mid=IqeC",
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Black wrap-style skirt pants shown from the front."
+            }
+          ],
+          "category": {
+            "slug": "trousers-3",
+            "title": "Trousers",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "pants",
+                "title": "Pants"
+              },
+              {
+                "slug": "trousers-3",
+                "title": "Trousers"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "female",
+          "age": "adult",
+          "materials": [],
+          "key_features": [
+            "Fluid fabric",
+            "Skort design",
+            "Side zip closure",
+            "Mid-rise"
+          ],
+          "colors": [
+            {
+              "hex": "#222222",
+              "percentage": 1.0
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/aS0HegD-IqeC-2mDhp7?o=01KZ9Y71DYVFPPYX8C7V10PRJM&aid=01M7861NY17RGG02FA8QQWNZ7E",
+              "domain": "shop.mango.com",
+              "price": {
+                "price": 79.99,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.07,
+              "dimensions": null
+            }
+          ],
+          "variants": {
+            "options": [
+              {
+                "name": "Size",
+                "values": [
+                  {
+                    "label": "2",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "2 (EUR 34)",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "4",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "4 (EUR 36)",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "6",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "6 (EUR 38)",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "8",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "8 (EUR 40)",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "34",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "36",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "38",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "40",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  }
+                ]
+              }
+            ],
+            "selected": []
+          },
+          "structured_attributes": {
+            "fit": [
+              "Slim"
+            ],
+            "maternity-clothing-features": [
+              "Room for belly growth",
+              "Flattering silhouette"
+            ],
+            "pants-length-type": [
+              "Long"
+            ],
+            "pattern": [
+              "Solid"
+            ],
+            "care-instructions": [
+              "Machine washable"
+            ],
+            "maternity-waistband-style": [
+              "Over-the-bump panel"
+            ],
+            "pregnancy-stage-suitability": [
+              "All stages"
+            ],
+            "fabric": [
+              "Viscose"
+            ],
+            "clothing-features": [
+              "Breathable design",
+              "Lightweight"
+            ]
+          },
+          "ratings": null
+        }
+      ],
+      "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjNkZTQ1NTFhODJlNDgwZjkiLCAib2Zmc2V0IjogNX0="
+    }
+  },
+  {
+    "filename": "dress_5.png",
+    "label": "dress",
+    "storage_path": "8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/484c363e9fea_dress_5.png",
+    "matches": {
+      "products": [
+        {
+          "id": "Jr2ywTN",
+          "title": "Dresses",
+          "description": "A comfortable and stylish set of two classic t-shirt dresses. The pack includes one solid turquoise dress and one turquoise and white striped dress. These dresses feature a round neckline, short sleeves, and an above-the-knee length, making them ideal for sunny outings and casual wear.",
+          "brands": [
+            {
+              "id": "nhgj",
+              "name": "Avon"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/4f0c5a7f-7b3e-4a52-b79b-68aae8f2bea6?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=ND63",
+              "cleaned_url": null,
+              "is_main_image": true,
+              "shot_type": "on_model",
+              "alt_text": "Two models wearing short dresses, one light blue and one teal, standing."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/0e205142-76b7-436e-9970-2f9f3439561f?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=ND63",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Two models wearing short dresses, one light blue and one teal, standing."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/b2983011-c439-4c5c-b898-54857352b363?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=ND63",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Two dresses laid flat, one teal and one light blue."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/550b3901-77bd-4758-84cf-ee244650b554?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=ND63",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "detail",
+              "alt_text": "Close-up of the hemline and slit of a teal short dress."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/639665b6-f142-4bfe-b212-4df25c4f3456?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=ND63",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "One model wearing a teal short dress, posing."
+            }
+          ],
+          "category": {
+            "slug": "dresses",
+            "title": "Dresses",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "dresses",
+                "title": "Dresses"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "female",
+          "age": "adult",
+          "materials": [
+            "polyester",
+            "rayon",
+            "spandex",
+            "cotton"
+          ],
+          "key_features": [
+            "Set of two dresses",
+            "One solid turquoise and one turquoise/white stripe",
+            "Banded crewneck",
+            "Short sleeves",
+            "Above-the-knee length"
+          ],
+          "colors": [
+            {
+              "hex": "#5cc5be",
+              "percentage": 0.3945
+            },
+            {
+              "hex": "#25938a",
+              "percentage": 0.3838
+            },
+            {
+              "hex": "#474739",
+              "percentage": 0.1217
+            },
+            {
+              "hex": "#77b6ac",
+              "percentage": 0.0999
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/Jr2ywTN-ND63-2mDhp7?o=01M24H6NEGZREETHQ619RXQMEP&aid=01M7861Q0MH8C6WTNWYE4K449N",
+              "domain": "avon.com",
+              "price": {
+                "price": 21.99,
+                "compare_at_price": 49.99,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.035,
+              "dimensions": null
+            }
+          ],
+          "variants": {
+            "options": [
+              {
+                "name": "Size",
+                "values": [
+                  {
+                    "label": "2X (22W-24W)",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "3X (26W-28W)",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "L (12-14)",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "M (8-10)",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  }
+                ]
+              }
+            ],
+            "selected": []
+          },
+          "structured_attributes": {
+            "fabric": [
+              "Polyester",
+              "Rayon",
+              "Cotton",
+              "Spandex"
+            ],
+            "care-instructions": [
+              "Machine washable",
+              "Line dry"
+            ],
+            "dress-style": [
+              "Shirt"
+            ],
+            "dress-occasion": [
+              "Casual"
+            ],
+            "skirt-dress-length-type": [
+              "Mini"
+            ],
+            "sleeve-length-type": [
+              "Short"
+            ],
+            "neckline": [
+              "Round"
+            ],
+            "pattern": [
+              "Solid",
+              "Striped"
+            ],
+            "hemline-style": [
+              "Slit"
+            ],
+            "clothing-features": [
+              "Wrinkle resistant",
+              "Lightweight"
+            ]
+          },
+          "ratings": {
+            "value": 5.0,
+            "count": 5,
+            "source_count": 1
+          }
+        },
+        {
+          "id": "3hnp1RL",
+          "title": "Big Girls Royal Chicago Cubs Big League Cheer V-Neck T-Shirt Dress",
+          "description": "A royal blue and red V-neck T-shirt dress for big girls, designed for fans of the Chicago Cubs. This sports-inspired dress features 'CHICAGO' printed across the back, an embroidered fabric applique team logo on the right shoulder, and contrasting front and back yokes. It has short sleeves with sewn-on stripes and a hem that hits at mid-thigh, making it suitable for warm weather game days.",
+          "brands": [
+            {
+              "id": "DuW7",
+              "name": "Outer Stuff"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/a41559df-dfd4-4408-87c1-97050127cf4b?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=K6RA",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a41559df-dfd4-4408-87c1-97050127cf4b?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=K6RA",
+              "is_main_image": true,
+              "shot_type": "hero",
+              "alt_text": "Front view of a red and blue Chicago Cubs jersey laid out."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/283af7e1-ea9d-4a53-ba24-4b4bd985bc04?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=K6RA",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/283af7e1-ea9d-4a53-ba24-4b4bd985bc04?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=K6RA",
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Back view of a red and blue Chicago Cubs jersey."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/8d9410dc-a9d8-4bdc-99a5-21f118471283?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=K6RA",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8d9410dc-a9d8-4bdc-99a5-21f118471283?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=K6RA",
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Front view of a red and blue Chicago Cubs jersey with logo."
+            }
+          ],
+          "category": {
+            "slug": "dresses",
+            "title": "Dresses",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "dresses",
+                "title": "Dresses"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "female",
+          "age": "kids",
+          "materials": [
+            "100% polyester"
+          ],
+          "key_features": [
+            "Sewn on stripes on both sleeves",
+            "Embroidered fabric applique team logo on the right shoulder",
+            "Wordmark across the chest",
+            "Short sleeve",
+            "V-neck",
+            "Contrasting front and back yoke",
+            "Hem hits at mid-thigh"
+          ],
+          "colors": [
+            {
+              "hex": "#1b3183",
+              "percentage": 0.5735
+            },
+            {
+              "hex": "#c0081c",
+              "percentage": 0.283
+            },
+            {
+              "hex": "#a387a9",
+              "percentage": 0.1067
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/3hnp1RL-K6RA-2mDhp7?o=01M409TMVHZKK6ZQS6TBN1QKYK&aid=01M7861Q0MH8C6WTNWYE4K449N",
+              "domain": "macys.com",
+              "price": {
+                "price": 49.99,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.056,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "dress-style": [
+              "Shirt"
+            ],
+            "neckline": [
+              "V-neck"
+            ],
+            "care-instructions": [
+              "Machine washable"
+            ],
+            "sleeve-length-type": [
+              "Short"
+            ],
+            "pattern": [
+              "Solid"
+            ],
+            "dress-occasion": [
+              "Casual"
+            ],
+            "skirt-dress-length-type": [
+              "Mini"
+            ],
+            "fabric": [
+              "Polyester"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "qy7HtlT",
+          "title": "90s Chicago Graphic T-Shirt",
+          "description": "In this nostalgic vintage tee, a bold 90s Chicago graphic proudly sits on a soft crewneck. It\u2019s a short\u2011sleeved, machine\u2011washable t\u2011shirt finished with a hint of character from decade\u2011old wear. The fit is slightly relaxed, with a 23\u2011inch chest opening and 28\u2011inch length. Feel the authentic retro vibe in a comfortable piece that\u2019s ready for any casual occasion.",
+          "brands": [
+            {
+              "id": "gcGX",
+              "name": "Paul Smith"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/67f4f351-b399-4baa-8f58-d0e584a1613f?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=imYE",
+              "cleaned_url": "https://cdn.trychannel3.com/2e5f7ef8-e315-4cdc-b22f-ff569778d43a?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=imYE",
+              "is_main_image": true,
+              "shot_type": "hero",
+              "alt_text": "Navy blue graphic t-shirt featuring a colorful Chicago skyline silhouette graphic."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/9bc61712-aa32-4272-abeb-33850ca2d0ba?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=imYE",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Back view of a navy blue graphic t-shirt."
+            }
+          ],
+          "category": {
+            "slug": "t-shirts-3",
+            "title": "T-Shirts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "shirts-tops",
+                "title": "Shirts & Tops"
+              },
+              {
+                "slug": "t-shirts-3",
+                "title": "T-Shirts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": null,
+          "age": "adult",
+          "materials": [],
+          "key_features": [
+            "short sleeves",
+            "crew neckline",
+            "graphic tee",
+            "city skyline design",
+            "text",
+            "machine washable"
+          ],
+          "colors": [
+            {
+              "hex": "#505475",
+              "percentage": 0.9378
+            },
+            {
+              "hex": "#8b8ca1",
+              "percentage": 0.0622
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/qy7HtlT-imYE-2mDhp7?o=01KGYF3RMFSZ5ZSK8EWGXDDT1G&aid=01M7861Q0MH8C6WTNWYE4K449N",
+              "domain": "pacsun.com",
+              "price": {
+                "price": 55.0,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.035,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "clothing-features": [
+              "Breathable design"
+            ],
+            "chest-pocket-style": [
+              "None"
+            ],
+            "care-instructions": [
+              "Machine washable"
+            ],
+            "fabric": [
+              "Cotton",
+              "Synthetic"
+            ],
+            "sleeve-style": [
+              "Flutter"
+            ],
+            "pattern": [
+              "Graphic"
+            ],
+            "neckline": [
+              "Crew"
+            ],
+            "stretch-level": [
+              "Moderate stretch"
+            ],
+            "activity": [
+              "Universal"
+            ],
+            "sweatshirt-pocket-type": [
+              "None"
+            ],
+            "sleeve-length-type": [
+              "Short"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "VPnNZx7",
+          "title": "New Balance Men's Chicago City Run T-Shirt Blue - Blue",
+          "description": "Run strong and celebrate the Windy City with this classic tee featuring Chicago-themed graphics and comfortable cotton fabric.",
+          "brands": [
+            {
+              "id": "hXBE",
+              "name": "New Balance"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/2249db6d-e09e-436f-bb02-b78664445193?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2249db6d-e09e-436f-bb02-b78664445193?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "is_main_image": true,
+              "shot_type": "on_model",
+              "alt_text": "Male model standing against a background wearing a blue t-shirt."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/77dd3536-02df-498d-9916-6943fdf45cf7?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Male model wearing a blue t-shirt and shorts."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/337a0815-d919-4d06-91c3-0cdb86a1f729?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Male model wearing a blue t-shirt, vest, and shorts."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/ce39990a-0609-44e6-ae25-02f4e3c28531?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ce39990a-0609-44e6-ae25-02f4e3c28531?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Man standing against a background wearing a blue graphic t-shirt."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/f38a7c5d-c669-4798-9a59-731fbeb0e8c1?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Man shown from the back wearing a blue graphic t-shirt."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/afaa13ff-4704-4388-9fee-b215d1b6495a?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/afaa13ff-4704-4388-9fee-b215d1b6495a?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Man shown from the side wearing a blue t-shirt and shorts."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/e102ef70-7dfd-4fdf-ac1b-0291dd9a454b?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Man shown from the back wearing a blue graphic t-shirt."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/bddf5d1f-ef4e-48c3-a8ff-3c00c0bda005?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "detail",
+              "alt_text": "Close-up texture of blue t-shirt fabric."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/0fa3d0aa-57eb-44ed-8a22-805ce1c7b092?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Man standing against a background wearing a blue t-shirt."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/41c9596c-bcd7-4aff-825a-e8cb7c792895?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Male model wearing a blue t-shirt, vest, and shorts."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/5a080082-2e5a-4ed1-a11c-6d48f7962dfe?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5a080082-2e5a-4ed1-a11c-6d48f7962dfe?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Man standing against a background wearing a blue graphic t-shirt."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/b7e70f51-58c6-4010-96d2-d3757a20aec2?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Man shown from the back wearing a blue graphic t-shirt."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/13fb3206-f737-4a86-be47-ecf9c52a7859?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Man shown from the back wearing a blue graphic t-shirt."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/c816e5d7-b737-448f-ab9e-3179c28d3380?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=gbDU",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "detail",
+              "alt_text": "Close-up texture of blue t-shirt fabric."
+            }
+          ],
+          "category": {
+            "slug": "t-shirts-3",
+            "title": "T-Shirts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "shirts-tops",
+                "title": "Shirts & Tops"
+              },
+              {
+                "slug": "t-shirts-3",
+                "title": "T-Shirts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "male",
+          "age": "adult",
+          "materials": [
+            "64% cotton",
+            "36% polyester"
+          ],
+          "key_features": [
+            "Chicago-themed graphics",
+            "Short sleeves",
+            "Imported",
+            "Standard fit"
+          ],
+          "colors": [
+            {
+              "hex": "#498edf",
+              "percentage": 0.7316
+            },
+            {
+              "hex": "#392e35",
+              "percentage": 0.1247
+            },
+            {
+              "hex": "#6ca9f0",
+              "percentage": 0.0879
+            },
+            {
+              "hex": "#3f73b6",
+              "percentage": 0.0558
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/VPnNZx7-gbDU-2mDhp7?o=01M5MSXVPJV9K6DR9J69VSSZFM&aid=01M7861Q0MH8C6WTNWYE4K449N",
+              "domain": "joesnewbalanceoutlet.com",
+              "price": {
+                "price": 34.99,
+                "compare_at_price": 49.99,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.028,
+              "dimensions": null
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "neckline": [
+              "Round"
+            ],
+            "decoration-technique": [
+              "Screen printing"
+            ],
+            "top-length-type": [
+              "Medium"
+            ],
+            "pattern": [
+              "Solid",
+              "Graphic"
+            ],
+            "top-fit": [
+              "Regular"
+            ],
+            "chest-pocket-style": [
+              "None"
+            ],
+            "activity": [
+              "Running"
+            ],
+            "fabric": [
+              "Cotton",
+              "Polyester"
+            ],
+            "sleeve-length-type": [
+              "Short"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "WgG4Mzz",
+          "title": "Short Sleeve Garment Dye Pocket T-shirt",
+          "description": "The 1809GD is a unisex short sleeve t-shirt from Los Angeles Apparel, featuring a classic left breast pocket. Part of the garment-dyed line, this tee is custom dyed to be shrink-free and is crafted from 100% USA-grown cotton. It is designed with a 6.5 oz/yd\u00b2 weight using 18/1 open-end cotton and is made in Los Angeles, California.",
+          "brands": [
+            {
+              "id": "GV6L",
+              "name": "Los Angeles Apparel"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/2fa38c5a-e0e8-4dec-9ad5-249a00541a74?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=qyiO",
+              "cleaned_url": null,
+              "is_main_image": true,
+              "shot_type": "lifestyle",
+              "alt_text": "Female model wearing a red short sleeve t-shirt and grey pants."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/4c72eaab-19bd-4729-a9ed-0cbbe2f9d5b8?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=qyiO",
+              "cleaned_url": "https://cdn.trychannel3.com/8541cab0-7741-4070-a4be-83edb080368e?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=qyiO",
+              "is_main_image": false,
+              "shot_type": "lifestyle",
+              "alt_text": "Female model wearing a white short sleeve t-shirt and black pants."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/fc0d8458-f631-41c0-9dcd-cedd32d1dbac?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=qyiO",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "lifestyle",
+              "alt_text": "Female model wearing a black short sleeve t-shirt and grey pants."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/84d79e1c-bdea-4dac-a32c-8e8d56279817?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=qyiO",
+              "cleaned_url": "https://cdn.trychannel3.com/ead05393-30d2-4618-a0d8-999bccdb87a4?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=qyiO",
+              "is_main_image": false,
+              "shot_type": "lifestyle",
+              "alt_text": "Female model wearing a blue short sleeve t-shirt and grey pants."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/e3acc0f5-a6d4-4080-ac8f-60185d807163?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=qyiO",
+              "cleaned_url": "https://cdn.trychannel3.com/275d5808-984f-4bba-9cc5-c4c5758de79f?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=qyiO",
+              "is_main_image": false,
+              "shot_type": "lifestyle",
+              "alt_text": "Female model wearing a yellow short sleeve t-shirt and grey pants."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/8c63a320-0399-4690-a692-7736806aed6e?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=qyiO",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "lifestyle",
+              "alt_text": "Female model wearing a yellow short sleeve t-shirt and grey pants."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/e0b37967-c167-44c8-9cab-b5346b515852?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=qyiO",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "lifestyle",
+              "alt_text": "Female model wearing a navy short sleeve t-shirt and grey pants."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/91e5b96e-f005-477d-a724-412829b54997?aid=01M7861Q0MH8C6WTNWYE4K449N&mid=qyiO",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "lifestyle",
+              "alt_text": "Female model wearing a dark green short sleeve t-shirt and grey pants."
+            }
+          ],
+          "category": {
+            "slug": "t-shirts-3",
+            "title": "T-Shirts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing",
+                "title": "Clothing"
+              },
+              {
+                "slug": "shirts-tops",
+                "title": "Shirts & Tops"
+              },
+              {
+                "slug": "t-shirts-3",
+                "title": "T-Shirts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": null,
+          "age": null,
+          "materials": [
+            "100% USA-grown cotton"
+          ],
+          "key_features": [
+            "Classic left breast pocket",
+            "Garment dyed for a custom look",
+            "Shrink-free",
+            "Made in Los Angeles, Calif.",
+            "Unisex fit"
+          ],
+          "colors": [
+            {
+              "hex": "#d3a186",
+              "percentage": 0.5501
+            },
+            {
+              "hex": "#d9d2d3",
+              "percentage": 0.1489
+            },
+            {
+              "hex": "#2b2326",
+              "percentage": 0.119
+            },
+            {
+              "hex": "#9f7562",
+              "percentage": 0.1035
+            },
+            {
+              "hex": "#d9baa7",
+              "percentage": 0.0785
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/WgG4Mzz-qyiO-2mDhp7?o=01M32G5W7PTJFS7K96DMMC619C&aid=01M7861Q0MH8C6WTNWYE4K449N",
+              "domain": "losangelesapparel.net",
+              "price": {
+                "price": 28.0,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.07,
+              "dimensions": {
+                "length": null,
+                "width": null,
+                "height": null,
+                "weight": {
+                  "number": 272.0,
+                  "unit": "g"
+                }
+              }
+            }
+          ],
+          "variants": {
+            "options": [
+              {
+                "name": "Color",
+                "values": [
+                  {
+                    "label": "Atlantic Green",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/f46eedaf-39de-4b2f-8644-028f2ffe1e56",
+                    "product_id": "Wr3s1vr"
+                  },
+                  {
+                    "label": "Black",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/a053e193-ef92-405f-b225-a0d702bfb4ef",
+                    "product_id": "HIMWg9d"
+                  },
+                  {
+                    "label": "Bright Orange",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/35de32a8-0437-4f7e-b689-9cd5a01f05ae",
+                    "product_id": "1yu8A7j"
+                  },
+                  {
+                    "label": "Cement",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/xjihIJ7",
+                    "product_id": "xjihIJ7"
+                  },
+                  {
+                    "label": "Ivy",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/cd4fb802-2066-4096-9d4e-9041cecdda6a",
+                    "product_id": "61gxnLe"
+                  },
+                  {
+                    "label": "Navy",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/22a202c4-434c-4d12-8269-f2689dad5078",
+                    "product_id": "RBsEYRk"
+                  },
+                  {
+                    "label": "Tomato",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/2fa38c5a-e0e8-4dec-9ad5-249a00541a74",
+                    "product_id": "WgG4Mzz"
+                  },
+                  {
+                    "label": "Vintage Black",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/FYmQgW9",
+                    "product_id": "FYmQgW9"
+                  }
+                ]
+              },
+              {
+                "name": "Size",
+                "values": [
+                  {
+                    "label": "XS",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "S",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "M",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "L",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "XL",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "2XL",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "3XL",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  }
+                ]
+              }
+            ],
+            "selected": [
+              {
+                "name": "Color",
+                "label": "Tomato"
+              }
+            ]
+          },
+          "structured_attributes": {
+            "neckline": [
+              "Crew"
+            ],
+            "care-instructions": [
+              "Machine washable"
+            ],
+            "chest-pocket-style": [
+              "Single patch"
+            ],
+            "activity": [
+              "Universal"
+            ],
+            "pattern": [
+              "Solid"
+            ],
+            "fabric": [
+              "Cotton"
+            ],
+            "top-fit": [
+              "Regular"
+            ],
+            "top-length-type": [
+              "Medium"
+            ],
+            "sleeve-length-type": [
+              "Short"
+            ]
+          },
+          "ratings": null
+        }
+      ],
+      "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjZlMTEwZDUxNzM3NGMwN2UiLCAib2Zmc2V0IjogNX0="
+    }
+  },
+  {
+    "filename": "belt_6.png",
+    "label": "belt",
+    "storage_path": "8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/20974113e72f_belt_6.png",
+    "matches": {
+      "products": [
+        {
+          "id": "3AjGLV6",
+          "title": "Cotton Stretch Belt",
+          "description": "A braided stretch belt crafted from waxed cotton with a navy and natural tan braided design. Features stretch without holes, brass buckle in silver tone, and leather details. Width approximately 35 mm. Composition primarily cotton with leather accents.",
+          "brands": [
+            {
+              "id": "BkYG",
+              "name": "Athison"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/3922e44d-c223-4585-be3f-a255cde8ea88?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3922e44d-c223-4585-be3f-a255cde8ea88?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "is_main_image": true,
+              "shot_type": "hero",
+              "alt_text": "Braided belt in navy and burgundy threads with blue accent, laid out."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/1cfa3920-f0ac-49f8-b9eb-fecffeaec977?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Braided belt in navy, tan, and brown threads with blue accent, laid out."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/5602d7e5-040f-47f8-8288-1c73638e9b52?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "cleaned_url": "https://cdn.trychannel3.com/65178e0c-5206-4a72-a2cc-2c8f8b744319?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "is_main_image": false,
+              "shot_type": "detail",
+              "alt_text": "Close-up detail of a braided belt section with leather and silver buckle."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/842b137d-31e8-4c8f-a295-a928b0672989?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Braided belt in gray and tan threads with blue accent, laid out."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/7adf296a-bbf8-4f98-ae10-fe8446206b5b?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Braided belt in gray and tan with blue accents, laid out flat."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/1fcb0eb8-773b-46c3-bc9b-854d4f58d2af?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1fcb0eb8-773b-46c3-bc9b-854d4f58d2af?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "is_main_image": false,
+              "shot_type": "detail",
+              "alt_text": "Close-up detail of a braided belt section in burgundy thread with silver buckle."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/0557cd96-d59a-484d-836d-9e143506871c?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0557cd96-d59a-484d-836d-9e143506871c?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Braided belt in brown and tan threads with brown leather accent, laid out."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/6df10512-deb1-4c99-be3e-11cb2da29a58?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6df10512-deb1-4c99-be3e-11cb2da29a58?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Braided belt in olive green and tan threads with brown leather accent, laid out."
+            }
+          ],
+          "category": {
+            "slug": "belts",
+            "title": "Belts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing-accessories",
+                "title": "Clothing Accessories"
+              },
+              {
+                "slug": "belts",
+                "title": "Belts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "male",
+          "age": null,
+          "materials": [
+            "cotton",
+            "leather"
+          ],
+          "key_features": [
+            "Stretch braided belt",
+            "Waxed cotton",
+            "Leather details",
+            "Brass buckle with silver color",
+            "Width 35 mm",
+            "No holes"
+          ],
+          "colors": [
+            {
+              "hex": "#282934",
+              "percentage": 0.5537
+            },
+            {
+              "hex": "#4b4448",
+              "percentage": 0.2387
+            },
+            {
+              "hex": "#adabac",
+              "percentage": 0.1059
+            },
+            {
+              "hex": "#3d231e",
+              "percentage": 0.1016
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/3AjGLV6-WuWq-2mDhp7?o=01M0QEHH537Q1SDMH3P5KJC5CK&aid=01M7861RGXPY9MEFDN49T1W7K2",
+              "domain": "athison.com",
+              "price": {
+                "price": 90.0,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.0,
+              "dimensions": {
+                "length": null,
+                "width": {
+                  "number": 35.0,
+                  "unit": "mm"
+                },
+                "height": null,
+                "weight": null
+              }
+            }
+          ],
+          "variants": {
+            "options": [
+              {
+                "name": "Size",
+                "values": [
+                  {
+                    "label": "M",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/d97d9870-4de1-4990-8c8e-b077dc3e8df4",
+                    "product_id": "R7183fw"
+                  },
+                  {
+                    "label": "XS-S",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/70abf244-b262-4f24-a4ae-760b26074a53",
+                    "product_id": "vArXRYm"
+                  },
+                  {
+                    "label": "L",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/3922e44d-c223-4585-be3f-a255cde8ea88",
+                    "product_id": "3AjGLV6"
+                  }
+                ]
+              }
+            ],
+            "selected": [
+              {
+                "name": "Size",
+                "label": "L"
+              }
+            ]
+          },
+          "structured_attributes": {
+            "pattern": [
+              "Texture"
+            ],
+            "clothing-accessory-material": [
+              "Cotton",
+              "Leather"
+            ],
+            "belt-buckle-type": [
+              "Single prong / pin buckle"
+            ],
+            "accessory-pieces-included": [
+              "Belt"
+            ],
+            "accessory-size": [
+              "Extra small (XS)"
+            ],
+            "clothing-features": [
+              "Stretchable"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "snEI9kW",
+          "title": "Cotton And Rayon Belt",
+          "description": "This elegant braided belt from Athison combines m\u00e9lange rayon yarns with waxed cotton for a sophisticated, textured appearance. Designed for versatility and comfort, it features a hole-less design for a precise fit and is finished with leather details and a silver-colored brass buckle.",
+          "brands": [
+            {
+              "id": "BkYG",
+              "name": "Athison"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/c02123c6-e32a-4bb5-b87c-4b8d2aafab2a?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "cleaned_url": "https://cdn.trychannel3.com/611d61e8-d59f-4e5c-99b4-416998c78f77?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "is_main_image": true,
+              "shot_type": "hero",
+              "alt_text": "Belt with black and white woven pattern and silver buckle."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/6c05f1a4-c38c-4484-9d84-832c6c6b190f?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "cleaned_url": "https://cdn.trychannel3.com/611d61e8-d59f-4e5c-99b4-416998c78f77?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Belt with black and white woven pattern and silver buckle."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/05ed90ec-774f-458c-b1de-05cbe0785933?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/05ed90ec-774f-458c-b1de-05cbe0785933?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=WuWq",
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Black woven belt with silver buckle and leather strap."
+            }
+          ],
+          "category": {
+            "slug": "belts",
+            "title": "Belts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing-accessories",
+                "title": "Clothing Accessories"
+              },
+              {
+                "slug": "belts",
+                "title": "Belts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": null,
+          "age": "adult",
+          "materials": [
+            "cotton",
+            "rayon",
+            "leather",
+            "brass"
+          ],
+          "key_features": [
+            "Braided design with m\u00e9lange rayon yarns and waxed cotton",
+            "Hole-less characteristic for adjustable fit",
+            "35 mm width",
+            "Silver-colored brass buckle",
+            "Leather detailing"
+          ],
+          "colors": [
+            {
+              "hex": "#303641",
+              "percentage": 0.2604
+            },
+            {
+              "hex": "#484e59",
+              "percentage": 0.1466
+            },
+            {
+              "hex": "#b0b4b7",
+              "percentage": 0.1323
+            },
+            {
+              "hex": "#d3d6d6",
+              "percentage": 0.1239
+            },
+            {
+              "hex": "#8a8f94",
+              "percentage": 0.121
+            },
+            {
+              "hex": "#60666e",
+              "percentage": 0.1096
+            },
+            {
+              "hex": "#1b1f27",
+              "percentage": 0.1063
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/snEI9kW-WuWq-2mDhp7?o=01M0SZAVQ5G9AW4SHHNACZZ3JD&aid=01M7861RGXPY9MEFDN49T1W7K2",
+              "domain": "athison.com",
+              "price": {
+                "price": 56.0,
+                "compare_at_price": 90.0,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.0,
+              "dimensions": {
+                "length": null,
+                "width": {
+                  "number": 35.0,
+                  "unit": "mm"
+                },
+                "height": null,
+                "weight": null
+              }
+            }
+          ],
+          "variants": {
+            "options": [
+              {
+                "name": "Color",
+                "values": [
+                  {
+                    "label": "Grey",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/c02123c6-e32a-4bb5-b87c-4b8d2aafab2a",
+                    "product_id": "snEI9kW"
+                  },
+                  {
+                    "label": "Navy",
+                    "exists": false,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/000876a0-32d8-4a15-bf2a-1b2ec56a2e37",
+                    "product_id": "DNm1Uep"
+                  },
+                  {
+                    "label": "Brown",
+                    "exists": false,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/cb4d16f8-77d6-4e78-94a5-593d840fb2e7",
+                    "product_id": "UJSt7ED"
+                  },
+                  {
+                    "label": "Burgundy",
+                    "exists": false,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/14638516-2380-498f-a5f8-1873a1f04ebe",
+                    "product_id": "RCHMIJP"
+                  }
+                ]
+              },
+              {
+                "name": "Size",
+                "values": [
+                  {
+                    "label": "S-M",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/c02123c6-e32a-4bb5-b87c-4b8d2aafab2a",
+                    "product_id": "snEI9kW"
+                  },
+                  {
+                    "label": "XS",
+                    "exists": false,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/a4058198-e0d7-4339-950f-b2d3ec0ec73e",
+                    "product_id": "fwSXSAB"
+                  },
+                  {
+                    "label": "M",
+                    "exists": false,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/000876a0-32d8-4a15-bf2a-1b2ec56a2e37",
+                    "product_id": "DNm1Uep"
+                  },
+                  {
+                    "label": "XS-S",
+                    "exists": false,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/cb4d16f8-77d6-4e78-94a5-593d840fb2e7",
+                    "product_id": "UJSt7ED"
+                  },
+                  {
+                    "label": "L",
+                    "exists": false,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/14638516-2380-498f-a5f8-1873a1f04ebe",
+                    "product_id": "RCHMIJP"
+                  }
+                ]
+              }
+            ],
+            "selected": [
+              {
+                "name": "Size",
+                "label": "S-M"
+              },
+              {
+                "name": "Color",
+                "label": "Grey"
+              }
+            ]
+          },
+          "structured_attributes": {
+            "pattern": [
+              "Texture"
+            ],
+            "clothing-accessory-material": [
+              "Cotton",
+              "Silk",
+              "Leather"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "NPb1M2E",
+          "title": "Elasticated Belt",
+          "description": "A sophisticated navy blue belt featuring a durable hand-woven stretch viscose construction. This Italian-made accessory is designed for versatility and comfort, featuring a leather trim and a buckle that can be fastened at any point along the strap.",
+          "brands": [
+            {
+              "id": "bwnQ",
+              "name": "P. Johnson"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/71f12fa7-2090-4cd1-874d-91f0554caa39?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=qCZn",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/71f12fa7-2090-4cd1-874d-91f0554caa39?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=qCZn",
+              "is_main_image": true,
+              "shot_type": "hero",
+              "alt_text": "Close-up of a black elasticated belt with a silver buckle."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/703a8f18-0349-4f6d-9d31-d426b5cc4592?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=qCZn",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Person wearing a navy outfit with an elasticated belt."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/16585a15-7d17-46ee-8ef9-44159ff61cf7?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=qCZn",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/16585a15-7d17-46ee-8ef9-44159ff61cf7?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=qCZn",
+              "is_main_image": false,
+              "shot_type": "on_model",
+              "alt_text": "Person wearing a navy outfit with an elasticated belt."
+            }
+          ],
+          "category": {
+            "slug": "belts",
+            "title": "Belts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing-accessories",
+                "title": "Clothing Accessories"
+              },
+              {
+                "slug": "belts",
+                "title": "Belts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "male",
+          "age": "adult",
+          "materials": [
+            "viscose",
+            "leather"
+          ],
+          "key_features": [
+            "Hand woven in Italy",
+            "Durable stretch viscose",
+            "Leather trim",
+            "Buckles at any point",
+            "25mm width",
+            "108cm full length",
+            "Fits up to 38\" / 100cm waist"
+          ],
+          "colors": [
+            {
+              "hex": "#24232a",
+              "percentage": 0.4945
+            },
+            {
+              "hex": "#40424d",
+              "percentage": 0.4291
+            },
+            {
+              "hex": "#73747d",
+              "percentage": 0.0764
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/NPb1M2E-qCZn-2mDhp7?o=01M25YWHVHSMAVRB3792T853VK&aid=01M7861RGXPY9MEFDN49T1W7K2",
+              "domain": "us.pjt.com",
+              "price": {
+                "price": 220.0,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.0,
+              "dimensions": {
+                "length": {
+                  "number": 108.0,
+                  "unit": "cm"
+                },
+                "width": {
+                  "number": 25.0,
+                  "unit": "mm"
+                },
+                "height": null,
+                "weight": {
+                  "number": 500.0,
+                  "unit": "g"
+                }
+              }
+            }
+          ],
+          "variants": null,
+          "structured_attributes": {
+            "clothing-accessory-material": [
+              "Leather"
+            ],
+            "pattern": [
+              "Texture"
+            ],
+            "accessory-size": [
+              "One size"
+            ],
+            "clothing-features": [
+              "Stretchable"
+            ],
+            "belt-buckle-type": [
+              "Slide / prongless buckle"
+            ],
+            "accessory-pieces-included": [
+              "Belt"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "xiqNmPw",
+          "title": "Polymer 40mm Belt",
+          "description": "The Polymer 40mm Belt by Mission Belt features a lightweight yet durable polymer buckle designed for versatility and convenience. This TSA-friendly belt utilizes a high-tech ratchet system for precise adjustment, eliminating the need for traditional belt holes. The strap is crafted from durable canvas in a classic blue color, making it ideal for both casual wear and travel.",
+          "brands": [
+            {
+              "id": "gMAq",
+              "name": "Mission Belt"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/1f621617-33ea-4f2c-a0dd-a090e64162d0?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=B33F",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1f621617-33ea-4f2c-a0dd-a090e64162d0?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=B33F",
+              "is_main_image": true,
+              "shot_type": "hero",
+              "alt_text": "Coiled navy blue belt against white background."
+            },
+            {
+              "url": "https://cdn.trychannel3.com/5ec2be48-7656-4777-8092-b1fb1583b3e2?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=B33F",
+              "cleaned_url": null,
+              "is_main_image": false,
+              "shot_type": "hero",
+              "alt_text": "Multiple navy blue woven belts laid out horizontally."
+            }
+          ],
+          "category": {
+            "slug": "belts",
+            "title": "Belts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing-accessories",
+                "title": "Clothing Accessories"
+              },
+              {
+                "slug": "belts",
+                "title": "Belts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "male",
+          "age": "adult",
+          "materials": [
+            "Canvas",
+            "Polymer"
+          ],
+          "key_features": [
+            "TSA-friendly polymer buckle",
+            "Precision ratchet technology for easy adjustment",
+            "Lightweight and durable construction",
+            "40mm width",
+            "Customizable size"
+          ],
+          "colors": [
+            {
+              "hex": "#3c454d",
+              "percentage": 0.485
+            },
+            {
+              "hex": "#282d34",
+              "percentage": 0.4516
+            },
+            {
+              "hex": "#61686d",
+              "percentage": 0.0634
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/xiqNmPw-B33F-2mDhp7?o=01M25Y49PGQP1YNJQYGPPKBB5C&aid=01M7861RGXPY9MEFDN49T1W7K2",
+              "domain": "missionbelt.com",
+              "price": {
+                "price": 39.95,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.0,
+              "dimensions": {
+                "length": null,
+                "width": {
+                  "number": 40.0,
+                  "unit": "mm"
+                },
+                "height": null,
+                "weight": {
+                  "number": 213.0,
+                  "unit": "g"
+                }
+              }
+            }
+          ],
+          "variants": {
+            "options": [
+              {
+                "name": "Color",
+                "values": [
+                  {
+                    "label": "Black",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/bd3e5b68-7725-4398-8299-ea9ce6ab1b1c",
+                    "product_id": "mRo4xqP"
+                  },
+                  {
+                    "label": "Brown - Mocha",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/1b5d6afe-b666-40ef-a9a5-d138a16bedea",
+                    "product_id": "w7WsRkH"
+                  },
+                  {
+                    "label": "Canvas Black",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/3ae270e4-09fc-4278-a086-8e65c7e1b3cb",
+                    "product_id": "1N8ZuSp"
+                  },
+                  {
+                    "label": "Canvas Blue",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/1f621617-33ea-4f2c-a0dd-a090e64162d0",
+                    "product_id": "xiqNmPw"
+                  },
+                  {
+                    "label": "Canvas Gray",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/5f35f4a3-082a-46c1-ab40-7536154f417e",
+                    "product_id": "Z2BCl8h"
+                  },
+                  {
+                    "label": "Canvas Tan",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/750a5cfe-4a87-4859-9d75-2b227a8b8e87",
+                    "product_id": "muJ9PK9"
+                  },
+                  {
+                    "label": "Nylon Blue",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/229b2933-0393-4284-83f2-4da9a81fd45c",
+                    "product_id": "iBYgZyI"
+                  },
+                  {
+                    "label": "Nylon Gray",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/7268bd32-82ce-4ebc-9218-74eb77948370",
+                    "product_id": "nStalDy"
+                  },
+                  {
+                    "label": "Nylon Tan",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/dc4f058e-b438-48da-aa2b-f6f185176afd",
+                    "product_id": "Ah9UKTR"
+                  },
+                  {
+                    "label": "White",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": "https://cdn.trychannel3.com/0a747511-7c6a-4de0-b427-ce474c24d1a0",
+                    "product_id": "pJNdxFM"
+                  }
+                ]
+              },
+              {
+                "name": "Size",
+                "values": [
+                  {
+                    "label": "Small (Up to 32\")",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "Medium (Up to 35\")",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "Large (Up to 38\")",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "Extra Large (Up to 42\")",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "Custom (Up to 56\")",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  }
+                ]
+              }
+            ],
+            "selected": [
+              {
+                "name": "Color",
+                "label": "Canvas Blue"
+              }
+            ]
+          },
+          "structured_attributes": {
+            "clothing-accessory-material": [
+              "Leather",
+              "Nylon",
+              "Canvas"
+            ],
+            "belt-buckle-type": [
+              "Automatic / ratchet buckle"
+            ],
+            "pattern": [
+              "Solid"
+            ],
+            "accessory-size": [
+              "Small (S)",
+              "Medium (M)",
+              "Large (L)",
+              "Extra large (XL)",
+              "Customizable"
+            ],
+            "clothing-features": [
+              "Lightweight"
+            ],
+            "accessory-pieces-included": [
+              "Belt"
+            ]
+          },
+          "ratings": null
+        },
+        {
+          "id": "ntecxrV",
+          "title": "Polymer 35mm Belt",
+          "description": "The Polymer 35mm Belt from Mission Belt combines durability with lightweight comfort. Featuring a TSA-friendly polymer buckle that minimizes scratches and dings, this belt is ideal for travel and active use. It utilizes innovative ratchet technology for a precision fit, eliminating the need for traditional belt holes.",
+          "brands": [
+            {
+              "id": "gMAq",
+              "name": "Mission Belt"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://cdn.trychannel3.com/b0f9e8a2-ecec-4eec-a362-924b06ab033a?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=B33F",
+              "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b0f9e8a2-ecec-4eec-a362-924b06ab033a?aid=01M7861RGXPY9MEFDN49T1W7K2&mid=B33F",
+              "is_main_image": true,
+              "shot_type": "hero",
+              "alt_text": "Black polymer belt coiled on a white background."
+            }
+          ],
+          "category": {
+            "slug": "belts",
+            "title": "Belts",
+            "path": [
+              {
+                "slug": "apparel-accessories",
+                "title": "Apparel & Accessories"
+              },
+              {
+                "slug": "clothing-accessories",
+                "title": "Clothing Accessories"
+              },
+              {
+                "slug": "belts",
+                "title": "Belts"
+              }
+            ],
+            "has_children": false
+          },
+          "gender": "male",
+          "age": "adult",
+          "materials": [
+            "Polymer",
+            "Leather",
+            "Nylon",
+            "Canvas"
+          ],
+          "key_features": [
+            "TSA-friendly polymer buckle",
+            "Ratchet technology for precision fit",
+            "Lightweight and durable construction",
+            "Customizable sizing"
+          ],
+          "colors": [
+            {
+              "hex": "#0a0a0a",
+              "percentage": 0.3779
+            },
+            {
+              "hex": "#2b2b2b",
+              "percentage": 0.2554
+            },
+            {
+              "hex": "#d1d1d1",
+              "percentage": 0.1454
+            },
+            {
+              "hex": "#4d4d4d",
+              "percentage": 0.1291
+            },
+            {
+              "hex": "#949494",
+              "percentage": 0.0921
+            }
+          ],
+          "offers": [
+            {
+              "url": "https://buy.trychannel3.com/ntecxrV-B33F-2mDhp7?o=01M243S01AJW445FT17VJTC41W&aid=01M7861RGXPY9MEFDN49T1W7K2",
+              "domain": "missionbelt.com",
+              "price": {
+                "price": 39.95,
+                "compare_at_price": null,
+                "currency": "USD"
+              },
+              "availability": "InStock",
+              "condition": "new",
+              "max_commission_rate": 0.0,
+              "dimensions": {
+                "length": null,
+                "width": {
+                  "number": 35.0,
+                  "unit": "mm"
+                },
+                "height": null,
+                "weight": {
+                  "number": 213.0,
+                  "unit": "g"
+                }
+              }
+            }
+          ],
+          "variants": {
+            "options": [
+              {
+                "name": "Size",
+                "values": [
+                  {
+                    "label": "Small (Up to 32\")",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "Medium (Up to 35\")",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "Large (Up to 38\")",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "Extra Large (Up to 42\")",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "Custom (Up to 56\")",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  }
+                ]
+              },
+              {
+                "name": "Strap Color",
+                "values": [
+                  {
+                    "label": "Blue",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "Brown",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "Brown - Light",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "Brown - Mocha",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "Brown - Tan",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "Burgundy",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "Gray",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "Red",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  },
+                  {
+                    "label": "White",
+                    "exists": true,
+                    "available": null,
+                    "thumbnail_url": null,
+                    "product_id": null
+                  }
+                ]
+              }
+            ],
+            "selected": []
+          },
+          "structured_attributes": {
+            "belt-buckle-type": [
+              "Automatic / ratchet buckle"
+            ],
+            "clothing-features": [
+              "Lightweight"
+            ],
+            "pattern": [
+              "Solid"
+            ],
+            "clothing-accessory-material": [
+              "Leather",
+              "Nylon",
+              "Canvas"
+            ],
+            "accessory-size": [
+              "Small (S)",
+              "Medium (M)",
+              "Large (L)",
+              "Extra large (XL)",
+              "Customizable"
+            ],
+            "accessory-pieces-included": [
+              "Belt"
+            ]
+          },
+          "ratings": null
+        }
+      ],
+      "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOmNiYjlmYzAwYTJkNGMwZGYiLCAib2Zmc2V0IjogNX0="
+    }
+  }
+]

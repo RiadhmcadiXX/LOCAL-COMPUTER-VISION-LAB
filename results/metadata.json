@@ -1,0 +1,61 @@
+{
+  "source_image": "outfit.jpg",
+  "image_width": 2848,
+  "image_height": 4016,
+  "items": [
+    {
+      "id": 1,
+      "label": "##ie sweatshirt t - shirt shirt",
+      "confidence": 0.389,
+      "sam_score": 0.985,
+      "filename": "ie_sweatshirt_t_-_shirt_shirt_1.png",
+      "storage_path": "8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/eea777096154_ie_sweatshirt_t_-_shirt_shirt_1.png",
+      "signed_url": "https://trbpnjtbdrkilrrakpfo.supabase.co/storage/v1/object/sign/clothing_items/8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/eea777096154_ie_sweatshirt_t_-_shirt_shirt_1.png?token=eyJraWQiOiJhNmQyYjk4Ny00OWYwLTQ2ZWItOWMyMC00OWM1MDUxMzNhZjUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJjbG90aGluZ19pdGVtcy84ZjIxY2EzOC1hMDJmLTRhZTgtOGI1NS01YzNlODczOGYxNmQvZWVhNzc3MDk2MTU0X2llX3N3ZWF0c2hpcnRfdF8tX3NoaXJ0X3NoaXJ0XzEucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NDQ5NzM1OCwiZXhwIjoxNzk0NTAwOTU4fQ.2a4f4lKA9mlx9IE5eqHqFLhGrE4aXA4i8qcz5yNYLCk"
+    },
+    {
+      "id": 2,
+      "label": "jacket coat blaze hoodie sweatshirt sweater -",
+      "confidence": 0.331,
+      "sam_score": 0.999,
+      "filename": "jacket_coat_blaze_hoodie_sweatshirt_sweater_-_2.png",
+      "storage_path": "8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/db65f14a1ff1_jacket_coat_blaze_hoodie_sweatshirt_sweater_-_2.png",
+      "signed_url": "https://trbpnjtbdrkilrrakpfo.supabase.co/storage/v1/object/sign/clothing_items/8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/db65f14a1ff1_jacket_coat_blaze_hoodie_sweatshirt_sweater_-_2.png?token=eyJraWQiOiJhNmQyYjk4Ny00OWYwLTQ2ZWItOWMyMC00OWM1MDUxMzNhZjUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJjbG90aGluZ19pdGVtcy84ZjIxY2EzOC1hMDJmLTRhZTgtOGI1NS01YzNlODczOGYxNmQvZGI2NWYxNGExZmYxX2phY2tldF9jb2F0X2JsYXplX2hvb2RpZV9zd2VhdHNoaXJ0X3N3ZWF0ZXJfLV8yLnBuZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTQ0OTczNTksImV4cCI6MTc5NDUwMDk1OX0.6ZTfKpNFJ3HMxcCczga0-LO9k0P745EK6nDW1SW_jf0"
+    },
+    {
+      "id": 3,
+      "label": "trousers pants jeans shorts skirt",
+      "confidence": 0.328,
+      "sam_score": 0.988,
+      "filename": "trousers_pants_jeans_shorts_skirt_3.png",
+      "storage_path": "8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/4b0b7c95ac2b_trousers_pants_jeans_shorts_skirt_3.png",
+      "signed_url": "https://trbpnjtbdrkilrrakpfo.supabase.co/storage/v1/object/sign/clothing_items/8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/4b0b7c95ac2b_trousers_pants_jeans_shorts_skirt_3.png?token=eyJraWQiOiJhNmQyYjk4Ny00OWYwLTQ2ZWItOWMyMC00OWM1MDUxMzNhZjUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJjbG90aGluZ19pdGVtcy84ZjIxY2EzOC1hMDJmLTRhZTgtOGI1NS01YzNlODczOGYxNmQvNGIwYjdjOTVhYzJiX3Ryb3VzZXJzX3BhbnRzX2plYW5zX3Nob3J0c19za2lydF8zLnBuZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTQ0OTczNjAsImV4cCI6MTc5NDUwMDk2MH0.tIYY0YRsoG5v523UI3koDf3ecAsdnLrYZw3Dln6e9bE"
+    },
+    {
+      "id": 4,
+      "label": "trousers pants jeans shorts skirt",
+      "confidence": 0.339,
+      "sam_score": 0.934,
+      "filename": "trousers_pants_jeans_shorts_skirt_4.png",
+      "storage_path": "8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/b3ebff703f04_trousers_pants_jeans_shorts_skirt_4.png",
+      "signed_url": "https://trbpnjtbdrkilrrakpfo.supabase.co/storage/v1/object/sign/clothing_items/8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/b3ebff703f04_trousers_pants_jeans_shorts_skirt_4.png?token=eyJraWQiOiJhNmQyYjk4Ny00OWYwLTQ2ZWItOWMyMC00OWM1MDUxMzNhZjUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJjbG90aGluZ19pdGVtcy84ZjIxY2EzOC1hMDJmLTRhZTgtOGI1NS01YzNlODczOGYxNmQvYjNlYmZmNzAzZjA0X3Ryb3VzZXJzX3BhbnRzX2plYW5zX3Nob3J0c19za2lydF80LnBuZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTQ0OTczNjEsImV4cCI6MTc5NDUwMDk2MX0.1VQ9w6FfdSvTmysjq8UwvvZWpEPpFZx7QZN3bouCGzs"
+    },
+    {
+      "id": 5,
+      "label": "dress",
+      "confidence": 0.202,
+      "sam_score": 0.942,
+      "filename": "dress_5.png",
+      "storage_path": "8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/484c363e9fea_dress_5.png",
+      "signed_url": "https://trbpnjtbdrkilrrakpfo.supabase.co/storage/v1/object/sign/clothing_items/8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/484c363e9fea_dress_5.png?token=eyJraWQiOiJhNmQyYjk4Ny00OWYwLTQ2ZWItOWMyMC00OWM1MDUxMzNhZjUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJjbG90aGluZ19pdGVtcy84ZjIxY2EzOC1hMDJmLTRhZTgtOGI1NS01YzNlODczOGYxNmQvNDg0YzM2M2U5ZmVhX2RyZXNzXzUucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NDQ5NzM2MywiZXhwIjoxNzk0NTAwOTYzfQ.VLZ_NE7A4uZXpQXz8VSQLdSZlZ41VXxnzKK9weVw3-Y"
+    },
+    {
+      "id": 6,
+      "label": "belt",
+      "confidence": 0.202,
+      "sam_score": 0.709,
+      "filename": "belt_6.png",
+      "storage_path": "8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/20974113e72f_belt_6.png",
+      "signed_url": "https://trbpnjtbdrkilrrakpfo.supabase.co/storage/v1/object/sign/clothing_items/8f21ca38-a02f-4ae8-8b55-5c3e8738f16d/20974113e72f_belt_6.png?token=eyJraWQiOiJhNmQyYjk4Ny00OWYwLTQ2ZWItOWMyMC00OWM1MDUxMzNhZjUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJjbG90aGluZ19pdGVtcy84ZjIxY2EzOC1hMDJmLTRhZTgtOGI1NS01YzNlODczOGYxNmQvMjA5NzQxMTNlNzJmX2JlbHRfNi5wbmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk0NDk3MzY0LCJleHAiOjE3OTQ1MDA5NjR9.BBFDnswejA7rz4ySLnuQ5ZOUkjQ77Mr60wMMEaout-I"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+
+# ==========================================
+# DEPENDENCIES
+# ==========================================
+node_modules/
+.pnp.*
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# ==========================================
+# ENVIRONMENT VARIABLES & SECRETS
+# ==========================================
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+*.p12
+*.pfx
+service-account*.json
+
+# ==========================================
+# BUILD & DISTRIBUTION
+# ==========================================
+dist/
+build/
+out/
+.next/
+.nuxt/
+.output/
+coverage/
+*.tsbuildinfo
+
+# ==========================================
+# EXPO / REACT NATIVE
+# ==========================================
+.expo/
+.expo-shared/
+web-build/
+android/.gradle/
+android/build/
+android/app/build/
+ios/Pods/
+ios/build/
+*.apk
+*.aab
+*.ipa
+
+# ==========================================
+# LOGS & TEMPORARY FILES
+# ==========================================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.tmp
+*.temp
+.cache/
+.tmp/
+
+# ==========================================
+# IDE & EDITORS
+# ==========================================
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.iml
+*.swp
+*.swo
+
+# ==========================================
+# OPERATING SYSTEM
+# ==========================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==========================================
+# TESTING
+# ==========================================
+playwright-report/
+test-results/
+.nyc_output/
+
+# ==========================================
+# SUPABASE
+# ==========================================
+supabase/.branches/
+supabase/.temp/
+supabase/.profiles/
+
+# ==========================================
+# LOCAL DATABASES
+# ==========================================
+*.sqlite
+*.sqlite3
+*.db
+
+# ==========================================
+# VERCEL / NETLIFY
+# ==========================================
+.vercel/
+.netlify/
+
+# ==========================================
+# MISCELLANEOUS
+# ==========================================
+*.bak
+*.backup
+*.orig
+
+
+
+
+# ==========================================
+# PYTHON
+# ==========================================
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+.python-version
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.pytype/
+
+# Python build and packaging
+*.egg
+*.egg-info/
+.eggs/
+wheels/
+pip-wheel-metadata/
+.python_packages/
+site-packages/
+__pypackages__/
+
+# Testing and coverage
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Python IDE settings
+.spyproject/
+.ropeproject/
+
+# AI / Machine Learning
+checkpoints/
+model_checkpoints/
+wandb/
+mlruns/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+*.h5
+*.hdf5
+
+# Local datasets and generated files
+datasets/
+data/raw/
+data/processed/
+outputs/
